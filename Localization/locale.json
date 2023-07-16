@@ -1,0 +1,4455 @@
+
+[
+    {
+        "Id" : "Text_En_welcome",
+        "Contain" : [
+            "WELCOME BACK"
+        ]
+    },
+    {
+        "Id" : "Text_En_tobaccoReward",
+        "Contain" : [
+            "Tobacco revenue"
+        ]
+    },
+    {
+        "Id" : "Text_En_shengjijiashouyi",
+        "Contain" : [
+            "Upgrade your hood to increase the maximum offline income"
+        ]
+    },
+    {
+        "Id" : "Text_En_rewardNow",
+        "Contain" : [
+            "Get It"
+        ]
+    },
+    {
+        "Id" : "Text_En_doubleReward",
+        "Contain" : [
+            "Double"
+        ]
+    },
+    {
+        "Id" : "Text_En_signtoday",
+        "Contain" : [
+            "SIGN IN"
+        ]
+    },
+    {
+        "Id" : "Text_En_timesday",
+        "Contain" : [
+            "Day {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_suojidaoju",
+        "Contain" : [
+            "Random props"
+        ]
+    },
+    {
+        "Id" : "Text_En_reward",
+        "Contain" : [
+            "<size=34>Receive Rewards</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_enemycome",
+        "Contain" : [
+            "The enemy attacked"
+        ]
+    },
+    {
+        "Id" : "Text_En_qiangduobi",
+        "Contain" : [
+            "Robbed money"
+        ]
+    },
+    {
+        "Id" : "Text_En_isqiangpo",
+        "Contain" : [
+            "Do you want to rob or destroy other players?"
+        ]
+    },
+    {
+        "Id" : "Text_En_yes",
+        "Contain" : [
+            "YES"
+        ]
+    },
+    {
+        "Id" : "Text_En_no",
+        "Contain" : [
+            "NO"
+        ]
+    },
+    {
+        "Id" : "Text_En_selectqiangpo",
+        "Contain" : [
+            "PLEASE CHOOSE ROBBERY OR DESTRUCTION"
+        ]
+    },
+    {
+        "Id" : "Text_En_qiangjie",
+        "Contain" : [
+            "Robbery"
+        ]
+    },
+    {
+        "Id" : "Text_En_pohuai",
+        "Contain" : [
+            "Destruction"
+        ]
+    },
+    {
+        "Id" : "Text_En_player",
+        "Contain" : [
+            "PLAYER"
+        ]
+    },
+    {
+        "Id" : "Text_En_touquyes",
+        "Contain" : [
+            "Heist successful, you looted {0} dollars!"
+        ]
+    },
+    {
+        "Id" : "Text_En_pohuaiyes",
+        "Contain" : [
+            "Destruction successful, you looted {0} dollars!"
+        ]
+    },
+    {
+        "Id" : "Text_En_currentlv",
+        "Contain" : [
+            "Level:"
+        ]
+    },
+    {
+        "Id" : "Text_En_tobaccoMaxUp",
+        "Contain" : [
+            "Ceiling increase:"
+        ]
+    },
+    {
+        "Id" : "Text_En_tobacco/M",
+        "Contain" : [
+            "Gain per minute:"
+        ]
+    },
+    {
+        "Id" : "Text_En_lvYes",
+        "Contain" : [
+            "Upgrade succeeded!"
+        ]
+    },
+    {
+        "Id" : "Text_En_nodoller",
+        "Contain" : [
+            "Insufficient dollars"
+        ]
+    },
+    {
+        "Id" : "Text_En_lvUp",
+        "Contain" : [
+            "Level up"
+        ]
+    },
+    {
+        "Id" : "Text_En_skillUp",
+        "Contain" : [
+            "Skill upgrading"
+        ]
+    },
+    {
+        "Id" : "Text_En_dadoudong",
+        "Contain" : [
+            "Huge shake"
+        ]
+    },
+    {
+        "Id" : "Text_En_dadoudongDes",
+        "Contain" : [
+            "A huge hammer shakes the coin road"
+        ]
+    },
+    {
+        "Id" : "Text_En_tuituji",
+        "Contain" : [
+            "Bulldozer"
+        ]
+    },
+    {
+        "Id" : "Text_En_tuitujiDes",
+        "Contain" : [
+            "Extends the pushing distance and pushes down more gold coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_hulan",
+        "Contain" : [
+            "Guardrail"
+        ]
+    },
+    {
+        "Id" : "Text_En_hulanDes",
+        "Contain" : [
+            "Guardrails are raised on both sides to prevent gold coins from falling"
+        ]
+    },
+    {
+        "Id" : "Text_En_baoxianglv",
+        "Contain" : [
+            "The probability of treasure chest"
+        ]
+    },
+    {
+        "Id" : "Text_En_baoxianglvup",
+        "Contain" : [
+            "Increases the chance of chests appearing"
+        ]
+    },
+    {
+        "Id" : "Text_En_zhuangbeiskill",
+        "Contain" : [
+            "Equipment"
+        ]
+    },
+    {
+        "Id" : "Text_En_jiesuozhuangbei",
+        "Contain" : [
+            "Equipment skills can be used after unlocking"
+        ]
+    },
+    {
+        "Id" : "Text_En_noup",
+        "Contain" : [
+            "Insufficient props, unable to upgrade skills"
+        ]
+    },
+    {
+        "Id" : "Text_En_nounlock",
+        "Contain" : [
+            "Insufficient unlocking conditions, unable to unlock!"
+        ]
+    },
+    {
+        "Id" : "Text_En_yancaoheishi",
+        "Contain" : [
+            "Tobacco illicit market"
+        ]
+    },
+    {
+        "Id" : "Text_En_noTobacco",
+        "Contain" : [
+            "Insufficient crown coins, purchase failed"
+        ]
+    },
+    {
+        "Id" : "Text_En_todayFnum",
+        "Contain" : [
+            "Free refreshes remaining today: {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_flash",
+        "Contain" : [
+            "Refresh"
+        ]
+    },
+    {
+        "Id" : "Text_En_shop",
+        "Contain" : [
+            "Shop"
+        ]
+    },
+    {
+        "Id" : "Text_En_achive",
+        "Contain" : [
+            "ACHIEVEMENT"
+        ]
+    },
+    {
+        "Id" : "Text_En_signtoday",
+        "Contain" : [
+            "SIGN IN"
+        ]
+    },
+    {
+        "Id" : "Text_En_gift",
+        "Contain" : [
+            "Gift"
+        ]
+    },
+    {
+        "Id" : "Text_En_showprop",
+        "Contain" : [
+            "Collection"
+        ]
+    },
+    {
+        "Id" : "Text_En_rank",
+        "Contain" : [
+            "THE CHARTS"
+        ]
+    },
+    {
+        "Id" : "Text_En_set",
+        "Contain" : [
+            "Settings"
+        ]
+    },
+    {
+        "Id" : "Text_En_coins",
+        "Contain" : [
+            "Gold coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_doller",
+        "Contain" : [
+            "Dollar"
+        ]
+    },
+    {
+        "Id" : "Text_En_skill",
+        "Contain" : [
+            "Skill"
+        ]
+    },
+    {
+        "Id" : "Text_En_todaygift",
+        "Contain" : [
+            "Daily Pack"
+        ]
+    },
+    {
+        "Id" : "Text_En_buygift",
+        "Contain" : [
+            "Get after purchase"
+        ]
+    },
+    {
+        "Id" : "Text_En_getcoins",
+        "Contain" : [
+            "Silver coins {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_getdoller",
+        "Contain" : [
+            "Dollar"
+        ]
+    },
+    {
+        "Id" : "Text_En_suijijineng",
+        "Contain" : [
+            "You win {1} x {0}!"
+        ]
+    },
+    {
+        "Id" : "Text_En_buycoins",
+        "Contain" : [
+            "Buy silver coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_surebuycoins",
+        "Contain" : [
+            "Are you sure to buy silver coins?"
+        ]
+    },
+    {
+        "Id" : "Text_En_sure",
+        "Contain" : [
+            "YES"
+        ]
+    },
+    {
+        "Id" : "Text_En_giveup",
+        "Contain" : [
+            "NO"
+        ]
+    },
+    {
+        "Id" : "Text_En_buydoller",
+        "Contain" : [
+            "BUY DOLLARS"
+        ]
+    },
+    {
+        "Id" : "Text_En_surebuydoller",
+        "Contain" : [
+            "Are you sure to buy dollars?"
+        ]
+    },
+    {
+        "Id" : "Text_En_buyskill",
+        "Contain" : [
+            "BUY SKILLS"
+        ]
+    },
+    {
+        "Id" : "Text_En_surebuyskill",
+        "Contain" : [
+            "Are you sure to buy skills?"
+        ]
+    },
+    {
+        "Id" : "Text_En_lingqv",
+        "Contain" : [
+            "Receive"
+        ]
+    },
+    {
+        "Id" : "Text_En_nosucced",
+        "Contain" : [
+            "Incomplete"
+        ]
+    },
+    {
+        "Id" : "Text_En_toubitimes",
+        "Contain" : [
+            "Use {0} coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_dadoudongtimes",
+        "Contain" : [
+            "Use huge shake {0} times"
+        ]
+    },
+    {
+        "Id" : "Text_En_tuitujitimes",
+        "Contain" : [
+            "Use the bulldozer skill {0} times"
+        ]
+    },
+    {
+        "Id" : "Text_En_hulantimes",
+        "Contain" : [
+            "Use the guard rail skill {0} times"
+        ]
+    },
+    {
+        "Id" : "Text_En_leijistarnum",
+        "Contain" : [
+            "Cumulative upgrade to obtain {0} building stars"
+        ]
+    },
+    {
+        "Id" : "Text_En_leijilunpannum",
+        "Contain" : [
+            "Cumulative use of spin {0} times"
+        ]
+    },
+    {
+        "Id" : "Text_En_opengiftnum",
+        "Contain" : [
+            "Open gift box {0} times"
+        ]
+    },
+    {
+        "Id" : "Text_En_freecoins",
+        "Contain" : [
+            "Free silver coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_morecoins",
+        "Contain" : [
+            "Obtain additional {0} silver coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_freedoller",
+        "Contain" : [
+            "Free dollars"
+        ]
+    },
+    {
+        "Id" : "Text_En_moredoller",
+        "Contain" : [
+            "Get an additional {0} USD"
+        ]
+    },
+    {
+        "Id" : "Text_En_prop",
+        "Contain" : [
+            "Collection"
+        ]
+    },
+    {
+        "Id" : "Text_En_moreprop",
+        "Contain" : [
+            "Gain additional random props"
+        ]
+    },
+    {
+        "Id" : "Text_En_todayremaintimes",
+        "Contain" : [
+            "Daily collection times remaining {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_freeget",
+        "Contain" : [
+            "Get it for free"
+        ]
+    },
+    {
+        "Id" : "Text_En_doll",
+        "Contain" : [
+            "Figures"
+        ]
+    },
+    {
+        "Id" : "Text_En_scp",
+        "Contain" : [
+            "Props"
+        ]
+    },
+    {
+        "Id" : "Text_En_wei",
+        "Contain" : [
+            "My ranking:"
+        ]
+    },
+    {
+        "Id" : "Text_En_sound",
+        "Contain" : [
+            "Sound"
+        ]
+    },
+    {
+        "Id" : "Text_En_yuyan",
+        "Contain" : [
+            "Language"
+        ]
+    },
+    {
+        "Id" : "Text_En_on",
+        "Contain" : [
+            "On"
+        ]
+    },
+    {
+        "Id" : "Text_En_off",
+        "Contain" : [
+            "Off"
+        ]
+    },
+    {
+        "Id" : "Text_En_succed",
+        "Contain" : [
+            "Complete"
+        ]
+    },
+    {
+        "Id" : "Text_En_gongxi",
+        "Contain" : [
+            "CONGRATULATIONS"
+        ]
+    },
+    {
+        "Id" : "Text_En_build",
+        "Contain" : [
+            "Build"
+        ]
+    },
+    {
+        "Id" : "Text_En_rewarded",
+        "Contain" : [
+            "Received"
+        ]
+    },
+    {
+        "Id" : "Text_En_roll",
+        "Contain" : [
+            "Lucky Wheel"
+        ]
+    },
+    {
+        "Id" : "Text_En_tuiguang",
+        "Contain" : [
+            "Promotion"
+        ]
+    },
+    {
+        "Id" : "Text_En_maxlv",
+        "Contain" : [
+            "Full level"
+        ]
+    },
+    {
+        "Id" : "Text_En_boomcoins",
+        "Contain" : [
+            "A large wave of gold coins is coming"
+        ]
+    },
+    {
+        "Id" : "Text_En_boomdoller",
+        "Contain" : [
+            "A large wave of \"dollars\" is coming"
+        ]
+    },
+    {
+        "Id" : "Text_En_getroll",
+        "Contain" : [
+            "Get turntable rewards"
+        ]
+    },
+    {
+        "Id" : "Text_En_afterlvup",
+        "Contain" : [
+            "Try again after upgrading the hood center "
+        ]
+    },
+    {
+        "Id" : "Text_En_achiveget",
+        "Contain" : [
+            "This achievement has been achieved"
+        ]
+    },
+    {
+        "Id" : "Text_En_achiveno",
+        "Contain" : [
+            "The current achievements have not been completed yet"
+        ]
+    },
+    {
+        "Id" : "Text_En_nomoreeng",
+        "Contain" : [
+            "Insufficient energy, please continue to push coins to save energy!"
+        ]
+    },
+    {
+        "Id" : "Text_En_afterskill",
+        "Contain" : [
+            "You need to unlock this skill before you can use it"
+        ]
+    },
+    {
+        "Id" : "Text_En_noskilltimes",
+        "Contain" : [
+            "Skill not currently available"
+        ]
+    },
+    {
+        "Id" : "Text_En_unlockskill",
+        "Contain" : [
+            "The skill is unlocked and can be used after unlocking"
+        ]
+    },
+    {
+        "Id" : "Text_En_skillmax",
+        "Contain" : [
+            "You have reached the maximum skill level!"
+        ]
+    },
+    {
+        "Id" : "Text_En_yesskill",
+        "Contain" : [
+            "Skill upgrade succeeded!"
+        ]
+    },
+    {
+        "Id" : "Text_En_touqieing",
+        "Contain" : [
+            "Wait patiently while stealing"
+        ]
+    },
+    {
+        "Id" : "Text_En_yestouqie",
+        "Contain" : [
+            "Steal successfully and get {0} dollars"
+        ]
+    },
+    {
+        "Id" : "Text_En_touqieshibai",
+        "Contain" : [
+            "Theft failed"
+        ]
+    },
+    {
+        "Id" : "Text_En_yespohuai",
+        "Contain" : [
+            "Destroy successfully, get {0} USD"
+        ]
+    },
+    {
+        "Id" : "Text_En_qiangdianyes",
+        "Contain" : [
+            "Gun shop has been repaired"
+        ]
+    },
+    {
+        "Id" : "Text_En_yezonghuiyes",
+        "Contain" : [
+            "The nightclub has been repaired"
+        ]
+    },
+    {
+        "Id" : "Text_En_heishiyes",
+        "Contain" : [
+            "The illicit market has been repaired"
+        ]
+    },
+    {
+        "Id" : "Text_En_zhubaodianyes",
+        "Contain" : [
+            "The jewelry store has been repaired"
+        ]
+    },
+    {
+        "Id" : "Text_En_baipangzongbuyes",
+        "Contain" : [
+            "The guild headquarters has been repaired"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethowcoins",
+        "Contain" : [
+            "Obtain {0} silver coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethowdoller",
+        "Contain" : [
+            "Get {0} dollars"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethowprop",
+        "Contain" : [
+            "Get {0} props"
+        ]
+    },
+    {
+        "Id" : "Text_En_rewardcoins",
+        "Contain" : [
+            "You gain {0} silver coins!"
+        ]
+    },
+    {
+        "Id" : "Text_En_rewarddoller",
+        "Contain" : [
+            "You gain {0} dollars!"
+        ]
+    },
+    {
+        "Id" : "Text_En_usenonull",
+        "Contain" : [
+            "Please enter your name at the signature"
+        ]
+    },
+    {
+        "Id" : "Text_En_useshort",
+        "Contain" : [
+            "User name is less than 10 characters"
+        ]
+    },
+    {
+        "Id" : "Text_En_suijijinengno",
+        "Contain" : [
+            "You won a {0} skill!"
+        ]
+    },
+    {
+        "Id" : "Text_En_dolldaoju",
+        "Contain" : [
+            "Doll items: {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_shoucangping",
+        "Contain" : [
+            "Collectible items: {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethudun",
+        "Contain" : [
+            "You won a shield!"
+        ]
+    },
+    {
+        "Id" : "Text_En_getqiangduo",
+        "Contain" : [
+            "Gain snatch skills"
+        ]
+    },
+    {
+        "Id" : "Text_En_fallpixiang",
+        "Contain" : [
+            "A Silver Suitcase has dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_falldoll",
+        "Contain" : [
+            "A random figure has dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_fallprop",
+        "Contain" : [
+            "A random prop has dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_fallskill",
+        "Contain" : [
+            "A skill coin has dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_fallcoins",
+        "Contain" : [
+            "A lot of gold coins have dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_falldoller",
+        "Contain" : [
+            "A lot of dollars have dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_goldpixiang",
+        "Contain" : [
+            "Golden Suitcase"
+        ]
+    },
+    {
+        "Id" : "Text_En_pixiang",
+        "Contain" : [
+            "Silver Suitcase"
+        ]
+    },
+    {
+        "Id" : "Text_En_giftbox",
+        "Contain" : [
+            "Gift box"
+        ]
+    },
+    {
+        "Id" : "Text_En_getwhat",
+        "Contain" : [
+            "You won a {0}!"
+        ]
+    },
+    {
+        "Id" : "Text_En_coinsX",
+        "Contain" : [
+            "Silver x{0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_dollerX",
+        "Contain" : [
+            "USD x{0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_getprop",
+        "Contain" : [
+            "CONGRATULATION TO OBTAIN'{0}'"
+        ]
+    },
+    {
+        "Id" : "Text_En_getskill",
+        "Contain" : [
+            "CONGRATULATION TO OBTAIN'{0}'"
+        ]
+    },
+    {
+        "Id" : "Text_En_getlueduo",
+        "Contain" : [
+            "Get props plunder"
+        ]
+    },
+    {
+        "Id" : "Text_En_nextget",
+        "Contain" : [
+            "Countdown to next reward "
+        ]
+    },
+    {
+        "Id" : "Text_En_getwhatprop",
+        "Contain" : [
+            "Get item '{0}'"
+        ]
+    },
+    {
+        "Id" : "Text_En_onekeybuy",
+        "Contain" : [
+            "One-click purchase"
+        ]
+    },
+    {
+        "Id" : "Text_En_sell",
+        "Contain" : [
+            "Sell"
+        ]
+    },
+    {
+        "Id" : "Text_En_wait",
+        "Contain" : [
+            "Getting data, please wait"
+        ]
+    },
+    {
+        "Id" : "Text_En_norank",
+        "Contain" : [
+            "Not on the list"
+        ]
+    },
+    {
+        "Id" : "Text_En_propup",
+        "Contain" : [
+            "Items upgrade"
+        ]
+    },
+    {
+        "Id" : "Text_En_plzinput",
+        "Contain" : [
+            "Please type user name"
+        ]
+    },
+    {
+        "Id" : "Text_En_clickinput",
+        "Contain" : [
+            "Click here to enter the name"
+        ]
+    },
+    {
+        "Id" : "Text_En_willfit",
+        "Contain" : [
+            "Coming into battle"
+        ]
+    },
+    {
+        "Id" : "Text_En_clickcoins",
+        "Contain" : [
+            "Click here to place a coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_unclock",
+        "Contain" : [
+            "Unlock"
+        ]
+    },
+    {
+        "Id" : "Text_En_howup",
+        "Contain" : [
+            "Upgrade conditions:"
+        ]
+    },
+    {
+        "Id" : "Text_En_howunclock",
+        "Contain" : [
+            "Unlocking conditions:"
+        ]
+    },
+    {
+        "Id" : "Text_En_playerID",
+        "Contain" : [
+            "PLAYER ID"
+        ]
+    },
+    {
+        "Id" : "Text_En_surebuygift",
+        "Contain" : [
+            "Are you sure to buy this gift bag?"
+        ]
+    },
+    {
+        "Id" : "Text_En_surebuy",
+        "Contain" : [
+            "Are you sure to buy?"
+        ]
+    },
+    {
+        "Id" : "Text_En_bugbox",
+        "Contain" : [
+            "Buy Gift Bag"
+        ]
+    },
+    {
+        "Id" : "Text_En_buydiamond",
+        "Contain" : [
+            "Buy diamonds"
+        ]
+    },
+    {
+        "Id" : "Text_En_surebuydia",
+        "Contain" : [
+            "Are you sure to buy diamonds?"
+        ]
+    },
+    {
+        "Id" : "Text_En_freeskill",
+        "Contain" : [
+            "Free skills"
+        ]
+    },
+    {
+        "Id" : "Text_En_freebox",
+        "Contain" : [
+            "Free leather trunk"
+        ]
+    },
+    {
+        "Id" : "Text_En_freeprop",
+        "Contain" : [
+            "Free items"
+        ]
+    },
+    {
+        "Id" : "Text_En_seeadcoin",
+        "Contain" : [
+            "Get a lot of silver for free"
+        ]
+    },
+    {
+        "Id" : "Text_En_seeaddoller",
+        "Contain" : [
+            "Get a lot of dollars for free"
+        ]
+    },
+    {
+        "Id" : "Text_En_seeadskill",
+        "Contain" : [
+            "Skills available for free"
+        ]
+    },
+    {
+        "Id" : "Text_En_seeadbox",
+        "Contain" : [
+            "Free leather trunk available"
+        ]
+    },
+    {
+        "Id" : "Text_En_seeadprop",
+        "Contain" : [
+            "Props available for free"
+        ]
+    },
+    {
+        "Id" : "Text_En_boom",
+        "Contain" : [
+            "Bomb"
+        ]
+    },
+    {
+        "Id" : "Text_En_fallyin",
+        "Contain" : [
+            "A Silver Suitcase has dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_falljin",
+        "Contain" : [
+            "A Golden Suitcase has dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_agin",
+        "Contain" : [
+            "Spin"
+        ]
+    },
+    {
+        "Id" : "Text_En_scpprop",
+        "Contain" : [
+            "Prop"
+        ]
+    },
+    {
+        "Id" : "Text_En_rollprop",
+        "Contain" : [
+            "Figure"
+        ]
+    },
+    {
+        "Id" : "Text_En_suiji",
+        "Contain" : [
+            "Random skills"
+        ]
+    },
+    {
+        "Id" : "Text_En_lucky",
+        "Contain" : [
+            "LYCKY TURNTABLE"
+        ]
+    },
+    {
+        "Id" : "Text_En_coinmaxup",
+        "Contain" : [
+            "Maximum cumulative increase in silver coins: {0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_getmorecoin",
+        "Contain" : [
+            "GET MORE SILVER COINS"
+        ]
+    },
+    {
+        "Id" : "Text_En_next",
+        "Contain" : [
+            "<size=30>Next <sprite=7> in:"
+        ]
+    },
+    {
+        "Id" : "Text_En_time",
+        "Contain" : [
+            "time:"
+        ]
+    },
+    {
+        "Id" : "Text_En_shopbox",
+        "Contain" : [
+            "Daily Pack"
+        ]
+    },
+    {
+        "Id" : "Text_En_silver",
+        "Contain" : [
+            "silver coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_buyed",
+        "Contain" : [
+            "PURCHASED"
+        ]
+    },
+    {
+        "Id" : "Text_En_tishi",
+        "Contain" : [
+            "Tips"
+        ]
+    },
+    {
+        "Id" : "Text_En_uplv",
+        "Contain" : [
+            "Level up"
+        ]
+    },
+    {
+        "Id" : "Text_En_nodiamond",
+        "Contain" : [
+            "Diamond shortage"
+        ]
+    },
+    {
+        "Id" : "Text_En_buyyes",
+        "Contain" : [
+            "Purchase successful"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethowgold",
+        "Contain" : [
+            "Get {0} gold coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_getmoregold",
+        "Contain" : [
+            "Gain additional {0} gold coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_comtask",
+        "Contain" : [
+            "Tasks"
+        ]
+    },
+    {
+        "Id" : "Text_En_taskprogress",
+        "Contain" : [
+            "TASK PROGRESS"
+        ]
+    },
+    {
+        "Id" : "Text_En_upclub",
+        "Contain" : [
+            "Upgrade hood"
+        ]
+    },
+    {
+        "Id" : "Text_En_end",
+        "Contain" : [
+            "Over"
+        ]
+    },
+    {
+        "Id" : "Text_En_shouhuo",
+        "Contain" : [
+            "Acquire reward"
+        ]
+    },
+    {
+        "Id" : "Text_En_piglvmax",
+        "Contain" : [
+            "Golden Pig level is full"
+        ]
+    },
+    {
+        "Id" : "Text_En_clickuppig",
+        "Contain" : [
+            "The golden pig can be upgraded after getting {0} more rewards"
+        ]
+    },
+    {
+        "Id" : "Text_En_freelingqu",
+        "Contain" : [
+            "<size=32>Get it\\nfor free</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_morethan",
+        "Contain" : [
+            "If the reward exceeds 50%, you can receive it free of charge"
+        ]
+    },
+    {
+        "Id" : "Text_En_getmoresliver",
+        "Contain" : [
+            "Obtain additional {0} silver coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_gamecoin",
+        "Contain" : [
+            "GLAMOROUS ANGEL INVESTOR IS COMING"
+        ]
+    },
+    {
+        "Id" : "Text_En_gogame",
+        "Contain" : [
+            "<size=28>He is a beautifully dressed man with a lot of cash, he likes to walk around the streets and spread money everywhere, please accept his loving dollars.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_bossgive",
+        "Contain" : [
+            "UNEXPECTED VISITORS"
+        ]
+    },
+    {
+        "Id" : "Text_En_bosshelp",
+        "Contain" : [
+            "<size=26>Shock!!! A UFO was spotted in your neighborhood. They dropped a bunch of whatever it was and flew away. We picked up a good thing the aliens didn't want.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_bangpaibaofa",
+        "Contain" : [
+            "THE CHALLENGE OF COIN MASTER"
+        ]
+    },
+    {
+        "Id" : "Text_En_bangpaiskill",
+        "Contain" : [
+            "<size=24>A well-known coin voter who is famous all over the world came to your neighborhood. He was very sad to see your absurd coin technology and vowed to show you the real coin technology!</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_linqunow",
+        "Contain" : [
+            "Get It"
+        ]
+    },
+    {
+        "Id" : "Text_En_shouqunow",
+        "Contain" : [
+            "Get It"
+        ]
+    },
+    {
+        "Id" : "Text_En_getjin",
+        "Contain" : [
+            "Get a gold suitcase, open it to get:{0}X{1}"
+        ]
+    },
+    {
+        "Id" : "Text_En_crownreward",
+        "Contain" : [
+            "Crown coin income"
+        ]
+    },
+    {
+        "Id" : "Text_En_getcorown",
+        "Contain" : [
+            "Gain {0} crown coins additionally"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethowcrown",
+        "Contain" : [
+            "Obtain {0} crown coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_getjinzhu",
+        "Contain" : [
+            "Congratulations on unlocking the Fortune Golden Pig"
+        ]
+    },
+    {
+        "Id" : "Text_En_jiandoller",
+        "Contain" : [
+            "The golden pig can pick up the dollars you dropped into the pool."
+        ]
+    },
+    {
+        "Id" : "Text_En_freecrown",
+        "Contain" : [
+            "Free crown coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_crown",
+        "Contain" : [
+            "Crown coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_hasskill",
+        "Contain" : [
+            "Skill installed, no need to move"
+        ]
+    },
+    {
+        "Id" : "Text_En_luckywhell",
+        "Contain" : [
+            "Lucky turntable"
+        ]
+    },
+    {
+        "Id" : "Text_En_attackyou",
+        "Contain" : [
+            "YOU'VE BEEN ATTACKED"
+        ]
+    },
+    {
+        "Id" : "Text_En_attacknum",
+        "Contain" : [
+            "Number of attacks:{0}"
+        ]
+    },
+    {
+        "Id" : "Text_En_iknow",
+        "Contain" : [
+            "I got it!"
+        ]
+    },
+    {
+        "Id" : "Text_En_usedefender",
+        "Contain" : [
+            "Number of defensive attacks:"
+        ]
+    },
+    {
+        "Id" : "Text_En_attackDes",
+        "Contain" : [
+            "Attacking damaged buildings don't yield rewards!"
+        ]
+    },
+    {
+        "Id" : "Text_En_getboom",
+        "Contain" : [
+            "You won a bomb!"
+        ]
+    },
+    {
+        "Id" : "Text_En_jiesuoboss",
+        "Contain" : [
+            "Unlock boss"
+        ]
+    },
+    {
+        "Id" : "Text_En_hetong",
+        "Contain" : [
+            "HOOD PURCHASE CONTRACT"
+        ]
+    },
+    {
+        "Id" : "Text_En_hetongDes",
+        "Contain" : [
+            "\\u3000\\u3000Finally, thank you for your investment and hope you can manage the hood well"
+        ]
+    },
+    {
+        "Id" : "Text_En_qianming",
+        "Contain" : [
+            "Signature:"
+        ]
+    },
+    {
+        "Id" : "Text_En_finish",
+        "Contain" : [
+            "Completed"
+        ]
+    },
+    {
+        "Id" : "Text_En_newskill",
+        "Contain" : [
+            "Unlock skills / New features"
+        ]
+    },
+    {
+        "Id" : "Text_En_afterunclock",
+        "Contain" : [
+            "You can use new skills after unlocking:"
+        ]
+    },
+    {
+        "Id" : "Text_En_baotu",
+        "Contain" : [
+            "Mob leader"
+        ]
+    },
+    {
+        "Id" : "Text_En_chuBoss",
+        "Contain" : [
+            "Once unlocked, the Boss's car will appear on the block, and when the conditions are met, the Boss will be triggered to fight"
+        ]
+    },
+    {
+        "Id" : "Text_En_jiesuojiangli",
+        "Contain" : [
+            "Unlock rewards"
+        ]
+    },
+    {
+        "Id" : "Text_En_songqian",
+        "Contain" : [
+            "BOSS GIVING MONEY "
+        ]
+    },
+    {
+        "Id" : "Text_En_songbi",
+        "Contain" : [
+            "BOSS GIVING COINS"
+        ]
+    },
+    {
+        "Id" : "Text_En_songdaoju",
+        "Contain" : [
+            "BOSS GIVING PROPS"
+        ]
+    },
+    {
+        "Id" : "Text_En_jiesuotuituji",
+        "Contain" : [
+            "Unlock the bulldozer"
+        ]
+    },
+    {
+        "Id" : "Text_En_shengyulingqu",
+        "Contain" : [
+            "<size=28>Number of remaining claims per day</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_seead",
+        "Contain" : [
+            "Watch ads"
+        ]
+    },
+    {
+        "Id" : "Text_En_getmoredaoju",
+        "Contain" : [
+            "Gain additional random props"
+        ]
+    },
+    {
+        "Id" : "Text_En_selectrole",
+        "Contain" : [
+            "Please select the character you want to send to plunder"
+        ]
+    },
+    {
+        "Id" : "Text_En_dollerup",
+        "Contain" : [
+            "Increase in loot amount"
+        ]
+    },
+    {
+        "Id" : "Text_En_lueduo",
+        "Contain" : [
+            "plunder"
+        ]
+    },
+    {
+        "Id" : "Text_En_shuaxin",
+        "Contain" : [
+            "REFRESH TIPS"
+        ]
+    },
+    {
+        "Id" : "Text_En_noshuaxin",
+        "Contain" : [
+            "The number of times today has been used up, do you want to watch advertisements to refresh the goods in the illegal market\n\n"
+        ]
+    },
+    {
+        "Id" : "Text_En_isSeeAD",
+        "Contain" : [
+            "Do you want to get silver coins for free"
+        ]
+    },
+    {
+        "Id" : "Text_En_gethgb",
+        "Contain" : [
+            "A lot of crown coins have dropped!"
+        ]
+    },
+    {
+        "Id" : "Text_En_noHasCoin",
+        "Contain" : [
+            "You don't have enough silver coins!"
+        ]
+    },
+    {
+        "Id" : "Text_En_tipsBossUnLock",
+        "Contain" : [
+            "Once unlocked, the Boss's car will appear on the block, and when the conditions are met, the Boss will be triggered to fight"
+        ]
+    },
+    {
+        "Id" : "Text_En_sucLockTTJ",
+        "Contain" : [
+            "Congratulations on unlocking the bulldozer"
+        ]
+    },
+    {
+        "Id" : "Text_En_unLockThief",
+        "Contain" : [
+            "Unlock Thief"
+        ]
+    },
+    {
+        "Id" : "Text_En_unLockRank",
+        "Contain" : [
+            "Unlock ranking list"
+        ]
+    },
+    {
+        "Id" : "Text_En_cantUnLock",
+        "Contain" : [
+            "Unlocking requirements are not met."
+        ]
+    },
+    {
+        "Id" : "Text_En_cantUnLevelUp",
+        "Contain" : [
+            "Upgrade requirements are not met."
+        ]
+    },
+    {
+        "Id" : "Text_En_hasMaterial",
+        "Contain" : [
+            "Materials have already been added"
+        ]
+    },
+    {
+        "Id" : "Text_En_noHasMaterial",
+        "Contain" : [
+            "Insufficient materials"
+        ]
+    },
+    {
+        "Id" : "Text_En_noHasMTW",
+        "Contain" : [
+            "You need to add the required materials before assigning workers!"
+        ]
+    },
+    {
+        "Id" : "Text_En_noMaterial",
+        "Contain" : [
+            "Insufficient materials"
+        ]
+    },
+    {
+        "Id" : "Text_En_inMaterial",
+        "Contain" : [
+            "Input material"
+        ]
+    },
+    {
+        "Id" : "Text_En_repair",
+        "Contain" : [
+            "repair"
+        ]
+    },
+    {
+        "Id" : "Text_En_noRefreshNum",
+        "Contain" : [
+            "No number of times"
+        ]
+    },
+    {
+        "Id" : "Text_En_warn",
+        "Contain" : [
+            "WARNING"
+        ]
+    },
+    {
+        "Id" : "Text_En_tipsSelectPaotai",
+        "Contain" : [
+            "An upgrade is already in progress. Replacing the cannon will cause used figures and materials to be lost. Do you really want to replace the cannon?"
+        ]
+    },
+    {
+        "Id" : "Text_En_tipsSelectEndWork",
+        "Contain" : [
+            "Do you really want to cancel the upgrade? <color=\"red\">(used figures will not be refunded!)</color>"
+        ]
+    },
+    {
+        "Id" : "Text_En_tipsSelsectLockWork",
+        "Contain" : [
+            "It takes <sprite=6>X100 to unlock the new station. Do you want to unlock it?\\n\\n\\n<color=#ab5719>remainder:<sprite=6>x{0}</color>"
+        ]
+    },
+    {
+        "Id" : "Text_En_moreTobacco",
+        "Contain" : [
+            "Gain {0} additional crown coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_offlineDes",
+        "Contain" : [
+            "Offline revenue"
+        ]
+    },
+    {
+        "Id" : "Text_En_mail",
+        "Contain" : [
+            "MAIL"
+        ]
+    },
+    {
+        "Id" : "Text_En_communityLevel",
+        "Contain" : [
+            "HOOD LEVEL:"
+        ]
+    },
+    {
+        "Id" : "Text_En_award",
+        "Contain" : [
+            "reward"
+        ]
+    },
+    {
+        "Id" : "Text_En_doubleGet",
+        "Contain" : [
+            "<size=32>Double\\nClaim</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_double",
+        "Contain" : [
+            "x2"
+        ]
+    },
+    {
+        "Id" : "Text_En_paotai",
+        "Contain" : [
+            "BATTERY"
+        ]
+    },
+    {
+        "Id" : "Text_En_selectPao",
+        "Contain" : [
+            "Select cannon"
+        ]
+    },
+    {
+        "Id" : "Text_En_setWorker",
+        "Contain" : [
+            "Assign Workers"
+        ]
+    },
+    {
+        "Id" : "Text_En_noNeedMaterial",
+        "Contain" : [
+            "NO MATERIALS REQUIRED"
+        ]
+    },
+    {
+        "Id" : "Text_En_needMaterial",
+        "Contain" : [
+            "Upgrade material:"
+        ]
+    },
+    {
+        "Id" : "Text_En_dispatchWorker",
+        "Contain" : [
+            "Assign workers to upgrade the cannon"
+        ]
+    },
+    {
+        "Id" : "Text_En_desDispatch0",
+        "Contain" : [
+            "<size=26>\u00B7At least one worker needs to be assigned before the cannon can be upgraded.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_desDispatch1",
+        "Contain" : [
+            "<size=26>\u00B7The cannon upgrades faster with each additional worker assigned, up to five workers.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_dispatch",
+        "Contain" : [
+            "dispatch"
+        ]
+    },
+    {
+        "Id" : "Text_En_touchUnLock",
+        "Contain" : [
+            "Click unlock"
+        ]
+    },
+    {
+        "Id" : "Text_En_upDanNeed",
+        "Contain" : [
+            "Collect crown coins to increase your rank"
+        ]
+    },
+    {
+        "Id" : "Text_En_RankAward",
+        "Contain" : [
+            "Level up bonus"
+        ]
+    },
+    {
+        "Id" : "Text_En_titleMail",
+        "Contain" : [
+            "HOOD MAIL"
+        ]
+    },
+    {
+        "Id" : "Text_En_titleADRefresh",
+        "Contain" : [
+            "Get daily rewards for spending coins!"
+        ]
+    },
+    {
+        "Id" : "Text_En_ad50",
+        "Contain" : [
+            "50 times"
+        ]
+    },
+    {
+        "Id" : "Text_En_ad30",
+        "Contain" : [
+            "30 times"
+        ]
+    },
+    {
+        "Id" : "Text_En_ad15",
+        "Contain" : [
+            "15 times"
+        ]
+    },
+    {
+        "Id" : "Text_En_touchGetAward",
+        "Contain" : [
+            "Collect"
+        ]
+    },
+    {
+        "Id" : "Text_En_tipsforPaotai",
+        "Contain" : [
+            "Note: it can be used for battery upgrade materials"
+        ]
+    },
+    {
+        "Id" : "Text_En_upleveling",
+        "Contain" : [
+            "Upgrading"
+        ]
+    },
+    {
+        "Id" : "Text_En_Locking",
+        "Contain" : [
+            "Unlocked"
+        ]
+    },
+    {
+        "Id" : "Text_En_tips2",
+        "Contain" : [
+            "<color=#2e4883>Skill is not unlocked\\nit can be used after level 2 unlocked</color>"
+        ]
+    },
+    {
+        "Id" : "Text_En_tips0",
+        "Contain" : [
+            "<color=#2e4883>skill not unlocked\\nit can be used after level 4 unlocked</color>"
+        ]
+    },
+    {
+        "Id" : "Text_En_tips1",
+        "Contain" : [
+            "<color=#2e4883>skill not unlocked\\nSkills can be used after being unlocked by checking in the next day</color>"
+        ]
+    },
+    {
+        "Id" : "Text_En_zs",
+        "Contain" : [
+            "Diamond"
+        ]
+    },
+    {
+        "Id" : "Text_En_10001",
+        "Contain" : [
+            "Choose nationality"
+        ]
+    },
+    {
+        "Id" : "Text_En_10002",
+        "Contain" : [
+            "Click on the area to cast the coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_10003",
+        "Contain" : [
+            "Get a silver box"
+        ]
+    },
+    {
+        "Id" : "Text_En_10004",
+        "Contain" : [
+            "Get a gold box"
+        ]
+    },
+    {
+        "Id" : "Text_En_10005",
+        "Contain" : [
+            "Trigger for the boss car"
+        ]
+    },
+    {
+        "Id" : "Text_En_10006",
+        "Contain" : [
+            "<size=26>The reward light will light up when the coins pass.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10007",
+        "Contain" : [
+            "<size=26>You can get rewards by lighting other reward lights continuously.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10008",
+        "Contain" : [
+            "<size=26>You can get rewards when all 3 reward lights are on, but if you pass the lighted lights halfway, you need to re-accumulate.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10009",
+        "Contain" : [
+            "Click on the area to cast the coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_10010",
+        "Contain" : [
+            "You get a bonus for dropping this area"
+        ]
+    },
+    {
+        "Id" : "Text_En_10011",
+        "Contain" : [
+            "Coins are pushed into the red box to activate the slot machine, and you will get a huge reward"
+        ]
+    },
+    {
+        "Id" : "Text_En_10012",
+        "Contain" : [
+            "<size=28>You can get a level promotion award.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10013",
+        "Contain" : [
+            "<size=28>The level is raised to</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10014",
+        "Contain" : [
+            "Level"
+        ]
+    },
+    {
+        "Id" : "Text_En_10015",
+        "Contain" : [
+            "Current level"
+        ]
+    },
+    {
+        "Id" : "Text_En_10016",
+        "Contain" : [
+            "Compose"
+        ]
+    },
+    {
+        "Id" : "Text_En_10017",
+        "Contain" : [
+            "Get<sprite=6>x10"
+        ]
+    },
+    {
+        "Id" : "Text_En_10018",
+        "Contain" : [
+            "Additional rewards"
+        ]
+    },
+    {
+        "Id" : "Text_En_10019",
+        "Contain" : [
+            "Current upgrade stage"
+        ]
+    },
+    {
+        "Id" : "Text_En_10020",
+        "Contain" : [
+            "Power"
+        ]
+    },
+    {
+        "Id" : "Text_En_10021",
+        "Contain" : [
+            "Battery Unlock Conditions:"
+        ]
+    },
+    {
+        "Id" : "Text_En_10022",
+        "Contain" : [
+            "The building has been damaged"
+        ]
+    },
+    {
+        "Id" : "Text_En_10023",
+        "Contain" : [
+            "Free repair"
+        ]
+    },
+    {
+        "Id" : "Text_En_10024",
+        "Contain" : [
+            "Damaged"
+        ]
+    },
+    {
+        "Id" : "Text_En_10025",
+        "Contain" : [
+            "OOPS,THERE IS NOT ENOUGH AMMUNITION!"
+        ]
+    },
+    {
+        "Id" : "Text_En_10026",
+        "Contain" : [
+            "When you are faced with the merciless ridicule of the boss and you have no ammunition, as a social manager, you will..."
+        ]
+    },
+    {
+        "Id" : "Text_En_10027",
+        "Contain" : [
+            "<size=24>Escape quickly can save your life!</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10028",
+        "Contain" : [
+            "<size=24>Give me ammo to kill him!</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10029",
+        "Contain" : [
+            "<size=28>1. You can control the launching direction of the cannon by clicking or sliding</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10030",
+        "Contain" : [
+            "<size=28>2. Click on the skills at the bottom right to use the cannon's special skills. To defeat the boss faster, you must use your skills flexibly.</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10031",
+        "Contain" : [
+            "HELP"
+        ]
+    },
+    {
+        "Id" : "Text_En_10032",
+        "Contain" : [
+            "Available"
+        ]
+    },
+    {
+        "Id" : "Text_En_10033",
+        "Contain" : [
+            "The battle is about to start. Please choose the cannon you want to use"
+        ]
+    },
+    {
+        "Id" : "Text_En_10034",
+        "Contain" : [
+            "Successful heists:"
+        ]
+    },
+    {
+        "Id" : "Text_En_10035",
+        "Contain" : [
+            "Successful destruction:"
+        ]
+    },
+    {
+        "Id" : "Text_En_10036",
+        "Contain" : [
+            "Consumed figures:"
+        ]
+    },
+    {
+        "Id" : "Text_En_10037",
+        "Contain" : [
+            "Looted dollars:"
+        ]
+    },
+    {
+        "Id" : "Text_En_10038",
+        "Contain" : [
+            "Coming up next"
+        ]
+    },
+    {
+        "Id" : "Text_En_10039",
+        "Contain" : [
+            "<u>Help</u>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10040",
+        "Contain" : [
+            "No"
+        ]
+    },
+    {
+        "Id" : "Text_En_10041",
+        "Contain" : [
+            "Chart"
+        ]
+    },
+    {
+        "Id" : "Text_En_11041",
+        "Contain" : [
+            "Ranking"
+        ]
+    },
+    {
+        "Id" : "Text_En_10042",
+        "Contain" : [
+            "Set"
+        ]
+    },
+    {
+        "Id" : "Text_En_11042",
+        "Contain" : [
+            "Settings"
+        ]
+    },
+    {
+        "Id" : "Text_En_10043",
+        "Contain" : [
+            "Achievement"
+        ]
+    },
+    {
+        "Id" : "Text_En_11043",
+        "Contain" : [
+            "ACHIEVEMENT"
+        ]
+    },
+    {
+        "Id" : "Text_En_12043",
+        "Contain" : [
+            "Achievements"
+        ]
+    },
+    {
+        "Id" : "Text_En_12044",
+        "Contain" : [
+            "Daily Reward"
+        ]
+    },
+    {
+        "Id" : "Text_En_10045",
+        "Contain" : [
+            "Contains:\\n{0} coins, {1} dollars\\n{3} x {2}"
+        ]
+    },
+    {
+        "Id" : "Text_En_10046",
+        "Contain" : [
+            "Coin"
+        ]
+    },
+    {
+        "Id" : "Text_En_10047",
+        "Contain" : [
+            "Upgrade time has been greatly reduced!"
+        ]
+    },
+    {
+        "Id" : "Text_En_10048",
+        "Contain" : [
+            "Power:{0}\\nSkill:{1}"
+        ]
+    },
+    {
+        "Id" : "Text_En_10049",
+        "Contain" : [
+            "UPD"
+        ]
+    },
+    {
+        "Id" : "Text_En_10050",
+        "Contain" : [
+            "Equip skills here"
+        ]
+    },
+    {
+        "Id" : "Text_En_10051",
+        "Contain" : [
+            "Get rewards"
+        ]
+    },
+    {
+        "Id" : "Text_En_10052",
+        "Contain" : [
+            "Click here to get silver coins"
+        ]
+    },
+    {
+        "Id" : "Text_En_10053",
+        "Contain" : [
+            "<size=32>Three\\nClaim</size>"
+        ]
+    },
+    {
+        "Id" : "Text_En_10054",
+        "Contain" : [
+            "There are no new e-mail currently"
+        ]
+    },
+    {
+        "Id" : "Text_En_PayFailed",
+        "Contain" : [
+            "Payment failed"
+        ]
+    },
+    {
+        "Id" : "Text_En_10055",
+        "Contain" : [
+            "Update compensation"
+        ]
+    },
+    {
+        "Id" : "Text_En_10056",
+        "Contain" : [
+            "Hello Boss, \nThis letter is written to express our apologies.Due to a serious problem in our original version, we had to clear the original data, which will cause our game to lose its original fun. In order to make up for your bad experience, we will send some compensation to your game account.We hope you will continue to enjoy our game and support Gangster Coin Mania! Thank! \n\nBest regards\nGangster Coin Mania"
+        ]
+    },
+    {
+        "Id" : "Text_En_10057",
+        "Contain" : [
+            "No ads,please wait a few seconds or restart the game."
+        ]
+    },
+    {
+        "Id" : "Text_En_10058",
+        "Contain" : [
+            "Opening a new game will overwrite the save. Yes No?"
+        ]
+    },
+    {
+        "Id" : "Text_En_10059",
+        "Contain" : [
+            "Main Interface"
+        ]
+    },
+    {
+        "Id" : "Text_En_10060",
+        "Contain" : [
+            "Quit"
+        ]
+    },
+    {
+        "Id" : "Text_En_10061",
+        "Contain" : [
+            "Purchase the number of coin flips"
+        ]
+    },
+    {
+        "Id" : "Text_En_10062",
+        "Contain" : [
+            "Buy diamond"
+        ]
+    },
+    {
+        "Id" : "Text_En_10063",
+        "Contain" : [
+            "Buy the game pack"
+        ]
+    },
+    {
+        "Id" : "Text_En_10064",
+        "Contain" : [
+            "Upgrade hood"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_welcome",
+        "Contain" : [
+            "\u6B22\u8FCE\u56DE\u6765"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tobaccoReward",
+        "Contain" : [
+            "\u70DF\u8349\u6536\u76CA"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shengjijiashouyi",
+        "Contain" : [
+            "\u5347\u7EA7\u793E\u533A\u53EF\u4EE5\u589E\u52A0\u6536\u76CA\u4E0A\u9650"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_rewardNow",
+        "Contain" : [
+            "\u7ACB\u523B\u83B7\u5F97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_doubleReward",
+        "Contain" : [
+            "\u53CC\u500D\u83B7\u5F97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_signtoday",
+        "Contain" : [
+            "\u6BCF\u65E5\u7B7E\u5230"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_timesday",
+        "Contain" : [
+            "\u7B2C{0}\u5929"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_suojidaoju",
+        "Contain" : [
+            "\u968F\u673A\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_reward",
+        "Contain" : [
+            "\u9886\u53D6\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_enemycome",
+        "Contain" : [
+            "\u654C\u4EBA\u6765\u88AD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_qiangduobi",
+        "Contain" : [
+            "\u62A2\u593A\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_isqiangpo",
+        "Contain" : [
+            "\u662F\u5426\u60F3\u8981\u5BF9\u5176\u4ED6\u73A9\u5BB6\u8FDB\u884C\u62A2\u593A\u6216\u7834\u574F\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yes",
+        "Contain" : [
+            "\u662F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_no",
+        "Contain" : [
+            "\u5426"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_selectqiangpo",
+        "Contain" : [
+            "\u8BF7\u9009\u62E9\u62A2\u52AB\u6216\u7834\u574F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_qiangjie",
+        "Contain" : [
+            "\u62A2\u52AB"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_pohuai",
+        "Contain" : [
+            "\u7834\u574F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_player",
+        "Contain" : [
+            "\u73A9\u5BB6\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_touquyes",
+        "Contain" : [
+            "\u5077\u53D6\u6210\u529F\uFF0C\u83B7\u5F97{0}\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_pohuaiyes",
+        "Contain" : [
+            "\u7834\u574F\u6210\u529F\uFF0C\u83B7\u5F97{0}\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_currentlv",
+        "Contain" : [
+            "\u5F53\u524D\u7B49\u7EA7:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tobaccoMaxUp",
+        "Contain" : [
+            "\u4E0A\u9650\u589E\u52A0:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tobacco/M",
+        "Contain" : [
+            "\u6BCF\u5206\u949F\u83B7\u5F97\u91CF:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_lvYes",
+        "Contain" : [
+            "\u5347\u7EA7\u6210\u529F\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_nodoller",
+        "Contain" : [
+            "\u7F8E\u5143\u4E0D\u8DB3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_lvUp",
+        "Contain" : [
+            "\u5347\u7EA7"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_skillUp",
+        "Contain" : [
+            "\u6280\u80FD\u5347\u7EA7"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dadoudong",
+        "Contain" : [
+            "\u5927\u6296\u52A8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dadoudongDes",
+        "Contain" : [
+            "\u4F7F\u7528\u53EF\u4F7F\u63A8\u5E01\u8857\u9053\u53D1\u751F\u5F3A\u70C8\u9707\u52A8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tuituji",
+        "Contain" : [
+            "\u63A8\u571F\u673A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tuitujiDes",
+        "Contain" : [
+            "\u53EF\u8BA9\u63A8\u5E01\u8DDD\u79BB\u5EF6\u957F\uFF0C\u63A8\u843D\u66F4\u591A\u7684\u91D1\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hulan",
+        "Contain" : [
+            "\u62A4\u680F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hulanDes",
+        "Contain" : [
+            "\u4E24\u8FB9\u5347\u8D77\u62A4\u680F\uFF0C\u9632\u6B62\u91D1\u5E01\u6389\u843D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_baoxianglv",
+        "Contain" : [
+            "\u5B9D\u7BB1\u51E0\u7387"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_baoxianglvup",
+        "Contain" : [
+            "\u589E\u52A0\u5B9D\u7BB1\u51FA\u73B0\u51E0\u7387"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_zhuangbeiskill",
+        "Contain" : [
+            "\u88C5\u5907\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_jiesuozhuangbei",
+        "Contain" : [
+            "\u89E3\u9501\u540E\u53EF\u4F7F\u7528\u88C5\u5907\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noup",
+        "Contain" : [
+            "\u9053\u5177\u4E0D\u8DB3\uFF0C\u65E0\u6CD5\u5347\u7EA7\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_nounlock",
+        "Contain" : [
+            "\u89E3\u9501\u6761\u4EF6\u4E0D\u8DB3\uFF0C\u65E0\u6CD5\u89E3\u9501\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yancaoheishi",
+        "Contain" : [
+            "\u70DF\u8349\u9ED1\u5E02"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noTobacco",
+        "Contain" : [
+            "\u7687\u51A0\u5E01\u4E0D\u8DB3\uFF0C\u8D2D\u4E70\u5931\u8D25"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_todayFnum",
+        "Contain" : [
+            "\u4ECA\u65E5\u5269\u4F59\u514D\u8D39\u5237\u65B0\u6570\u91CF:{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_flash",
+        "Contain" : [
+            "\u5237\u65B0"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shop",
+        "Contain" : [
+            "\u5546\u5E97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_achive",
+        "Contain" : [
+            "\u6210\u5C31"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_signtoday",
+        "Contain" : [
+            "\u7B7E\u5230"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gift",
+        "Contain" : [
+            "\u793C\u54C1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_showprop",
+        "Contain" : [
+            "\u9053\u5177\u5C55\u793A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_rank",
+        "Contain" : [
+            "\u6392\u884C\u699C"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_set",
+        "Contain" : [
+            "\u8BBE\u7F6E"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_coins",
+        "Contain" : [
+            "\u91D1\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_doller",
+        "Contain" : [
+            "\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_skill",
+        "Contain" : [
+            "\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_todaygift",
+        "Contain" : [
+            "\u6BCF\u65E5\u793C\u5305"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buygift",
+        "Contain" : [
+            "\u8D2D\u4E70\u540E\u53EF\u83B7\u5F97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getcoins",
+        "Contain" : [
+            "\u94F6\u5E01{0}\u679A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getdoller",
+        "Contain" : [
+            "\u7F8E\u91D1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_suijijineng",
+        "Contain" : [
+            "{0}\u6280\u80FD{1}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buycoins",
+        "Contain" : [
+            "\u8D2D\u4E70\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_surebuycoins",
+        "Contain" : [
+            "\u786E\u5B9A\u8D2D\u4E70\u94F6\u5E01\u5417\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_sure",
+        "Contain" : [
+            "\u786E\u5B9A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_giveup",
+        "Contain" : [
+            "\u653E\u5F03"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buydoller",
+        "Contain" : [
+            "\u8D2D\u4E70\u7F8E\u91D1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_surebuydoller",
+        "Contain" : [
+            "\u786E\u5B9A\u8D2D\u4E70\u7F8E\u91D1\u5417\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buyskill",
+        "Contain" : [
+            "\u8D2D\u4E70\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_surebuyskill",
+        "Contain" : [
+            "\u786E\u5B9A\u8D2D\u4E70\u6280\u80FD\u5417\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_lingqv",
+        "Contain" : [
+            "\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_nosucced",
+        "Contain" : [
+            "\u672A\u5B8C\u6210"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_toubitimes",
+        "Contain" : [
+            "\u6295\u5E01\u6570\u91CF\u8FBE\u5230{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dadoudongtimes",
+        "Contain" : [
+            "\u4F7F\u7528\u5927\u6296\u52A8{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tuitujitimes",
+        "Contain" : [
+            "\u4F7F\u7528\u63A8\u571F\u673A{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hulantimes",
+        "Contain" : [
+            "\u4F7F\u7528\u62A4\u680F{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_leijistarnum",
+        "Contain" : [
+            "\u7D2F\u79EF\u5347\u7EA7\u83B7\u5F97\u5EFA\u7B51\u661F\u7B49{0}\u9897"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_leijilunpannum",
+        "Contain" : [
+            "\u7D2F\u8BA1\u4F7F\u7528\u8F6E\u76D8{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_opengiftnum",
+        "Contain" : [
+            "\u6253\u5F00\u793C\u7269\u7BB1{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freecoins",
+        "Contain" : [
+            "\u514D\u8D39\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_morecoins",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97{0}\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freedoller",
+        "Contain" : [
+            "\u514D\u8D39\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_moredoller",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97{0}\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_prop",
+        "Contain" : [
+            "\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_moreprop",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97\u968F\u673A\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_todayremaintimes",
+        "Contain" : [
+            "\u6BCF\u65E5\u53EF\u9886\u53D6\u6B21\u6570\u5269\u4F59{0}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freeget",
+        "Contain" : [
+            "\u514D\u8D39\u83B7\u5F97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_doll",
+        "Contain" : [
+            "\u4EBA\u5076"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_scp",
+        "Contain" : [
+            "\u6536\u85CF\u54C1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_wei",
+        "Contain" : [
+            "\u6211\u7684\u6392\u540D:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_sound",
+        "Contain" : [
+            "\u58F0\u97F3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yuyan",
+        "Contain" : [
+            "\u8BED\u8A00"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_on",
+        "Contain" : [
+            "\u5F00"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_off",
+        "Contain" : [
+            "\u5173"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_succed",
+        "Contain" : [
+            "\u5B8C\u6210"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gongxi",
+        "Contain" : [
+            "\u606D\u559C\u83B7\u5F97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_build",
+        "Contain" : [
+            "\u5EFA\u9020"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_rewarded",
+        "Contain" : [
+            "\u5DF2\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_roll",
+        "Contain" : [
+            "\u8F6C\u76D8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tuiguang",
+        "Contain" : [
+            "\u63A8\u5E7F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_maxlv",
+        "Contain" : [
+            "\u5DF2\u6EE1\u7EA7"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_boomcoins",
+        "Contain" : [
+            "\u4E00\u5927\u6CE2\u91D1\u5E01\u6765\u88AD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_boomdoller",
+        "Contain" : [
+            "\u4E00\u5927\u6CE2\u7F8E\u91D1\u5E01\u6765\u88AD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getroll",
+        "Contain" : [
+            "\u83B7\u5F97\u8F6C\u76D8\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_afterlvup",
+        "Contain" : [
+            "\u5347\u7EA7\u793E\u533A\u4E2D\u5FC3\u540E\u518D\u8BD5"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_achiveget",
+        "Contain" : [
+            "\u8BE5\u6210\u5C31\u5DF2\u8FBE\u6210~"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_achiveno",
+        "Contain" : [
+            "\u5F53\u524D\u6210\u5C31\u8FD8\u6CA1\u6709\u5B8C\u6210\u5662~"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_nomoreeng",
+        "Contain" : [
+            "\u80FD\u91CF\u4E0D\u8DB3\uFF0C\u8BF7\u7EE7\u7EED\u63A8\u5E01\u79EF\u84C4\u80FD\u91CF!"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_afterskill",
+        "Contain" : [
+            "\u9700\u8981\u89E3\u9501\u8BE5\u6280\u80FD\u540E\u624D\u53EF\u4F7F\u7528"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noskilltimes",
+        "Contain" : [
+            "\u6280\u80FD\u65E0\u53EF\u7528\u6B21\u6570"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_unlockskill",
+        "Contain" : [
+            "\u6280\u80FD\u672A\u89E3\u9501\uFF0C\u89E3\u9501\u540E\u53EF\u4F7F\u7528"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_skillmax",
+        "Contain" : [
+            "\u5DF2\u8FBE\u6280\u80FD\u7B49\u7EA7\u4E0A\u9650!"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yesskill",
+        "Contain" : [
+            "\u6280\u80FD\u5347\u7EA7\u6210\u529F\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_touqieing",
+        "Contain" : [
+            "\u5077\u7A83\u4E2D\uFF0C\u8010\u5FC3\u7B49\u5019"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yestouqie",
+        "Contain" : [
+            "\u5077\u7A83\u6210\u529F\uFF0C\u83B7\u53D6{0}\u7F8E\u5143\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_touqieshibai",
+        "Contain" : [
+            "\u5077\u7A83\u5931\u8D25"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yespohuai",
+        "Contain" : [
+            "\u7834\u574F\u6210\u529F\uFF0C\u83B7\u53D6{0}\u7F8E\u5143\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_qiangdianyes",
+        "Contain" : [
+            "\u67AA\u5E97\u5DF2\u4FEE\u590D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_yezonghuiyes",
+        "Contain" : [
+            "\u591C\u603B\u4F1A\u5DF2\u4FEE\u590D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_heishiyes",
+        "Contain" : [
+            "\u9ED1\u5E02\u5DF2\u4FEE\u590D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_zhubaodianyes",
+        "Contain" : [
+            "\u73E0\u5B9D\u5E97\u5DF2\u4FEE\u590D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_baipangzongbuyes",
+        "Contain" : [
+            "\u5E2E\u6D3E\u603B\u90E8\u5DF2\u4FEE\u590D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethowcoins",
+        "Contain" : [
+            "\u83B7\u5F97{0}\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethowdoller",
+        "Contain" : [
+            "\u83B7\u5F97{0}\u7F8E\u91D1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethowprop",
+        "Contain" : [
+            "\u83B7\u5F97{0}\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_rewardcoins",
+        "Contain" : [
+            "\u83B7\u5F97\u94F6\u5E01\uFF1A{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_rewarddoller",
+        "Contain" : [
+            "\u83B7\u5F97\u7F8E\u5143\uFF1A{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_usenonull",
+        "Contain" : [
+            "\u8BF7\u5728\u7B7E\u540D\u5904\u8F93\u5165\u4F60\u7684\u540D\u5B57"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_useshort",
+        "Contain" : [
+            "\u7528\u6237\u540D\u5C0F\u4E8E10\u4E2A\u5B57\u7B26"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_suijijinengno",
+        "Contain" : [
+            "{0}\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dolldaoju",
+        "Contain" : [
+            "\u4EBA\u5076\u7C7B\u9053\u5177\uFF1A{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shoucangping",
+        "Contain" : [
+            "\u6536\u85CF\u54C1\u9053\u5177\uFF1A{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethudun",
+        "Contain" : [
+            "\u83B7\u5F97\u62A4\u76FE"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getqiangduo",
+        "Contain" : [
+            "\u83B7\u5F97\u62A2\u593A\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_fallpixiang",
+        "Contain" : [
+            "\u6389\u843D\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_falldoll",
+        "Contain" : [
+            "\u6389\u843D\u968F\u673A\u4EBA\u5076"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_fallprop",
+        "Contain" : [
+            "\u6389\u843D\u6536\u85CF\u54C1\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_fallskill",
+        "Contain" : [
+            "\u6389\u843D\u6280\u80FD\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_fallcoins",
+        "Contain" : [
+            "\u6389\u843D\u5927\u91CF\u91D1\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_falldoller",
+        "Contain" : [
+            "\u6389\u843D\u5927\u91CF\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_goldpixiang",
+        "Contain" : [
+            "\u91D1\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_pixiang",
+        "Contain" : [
+            "\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_giftbox",
+        "Contain" : [
+            "\u793C\u54C1\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getwhat",
+        "Contain" : [
+            "\u83B7\u5F97{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_coinsX",
+        "Contain" : [
+            "\u94F6\u5E01x{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dollerX",
+        "Contain" : [
+            "\u7F8E\u5143x{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getprop",
+        "Contain" : [
+            "\u606D\u559C\u83B7\u5F97'{0}'"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getskill",
+        "Contain" : [
+            "\u606D\u559C\u83B7\u5F97'{0}'"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getlueduo",
+        "Contain" : [
+            "\u83B7\u5F97\u9053\u5177\u63A0\u593A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_nextget",
+        "Contain" : [
+            "\u4E0B\u6B21\u9886\u53D6\u5956\u52B1\u5012\u8BA1\u65F6:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getwhatprop",
+        "Contain" : [
+            "\u83B7\u5F97\u9053\u5177'{0}'"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_onekeybuy",
+        "Contain" : [
+            "\u4E00\u952E\u8D2D\u4E70"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_sell",
+        "Contain" : [
+            "\u51FA\u552E"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_wait",
+        "Contain" : [
+            "\u83B7\u53D6\u6570\u636E\u4E2D\uFF0C\u8BF7\u7A0D\u7B49...."
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_norank",
+        "Contain" : [
+            "\u672A\u4E0A\u699C"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_propup",
+        "Contain" : [
+            "\u9053\u5177\u5347\u7EA7"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_plzinput",
+        "Contain" : [
+            "\u8BF7\u8F93\u5165\u7528\u6237\u540D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_clickinput",
+        "Contain" : [
+            "\u70B9\u51FB\u6B64\u5904\u8F93\u5165\u540D\u79F0"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_willfit",
+        "Contain" : [
+            "\u5373\u5C06\u8FDB\u5165\u6218\u6597"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_clickcoins",
+        "Contain" : [
+            "\u70B9\u51FB\u6B64\u5904\u6295\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_unclock",
+        "Contain" : [
+            "\u89E3\u9501"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_howup",
+        "Contain" : [
+            "\u5347\u7EA7\u6761\u4EF6\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_howunclock",
+        "Contain" : [
+            "\u89E3\u9501\u6761\u4EF6\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_playerID",
+        "Contain" : [
+            "\u73A9\u5BB6ID:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_surebuygift",
+        "Contain" : [
+            "\u786E\u5B9A\u8D2D\u4E70\u8BE5\u793C\u5305\u5417\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_surebuy",
+        "Contain" : [
+            "\u786E\u5B9A\u8D2D\u4E70\u5417\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_bugbox",
+        "Contain" : [
+            "\u8D2D\u4E70\u793C\u5305"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buydiamond",
+        "Contain" : [
+            "\u8D2D\u4E70\u94BB\u77F3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_surebuydia",
+        "Contain" : [
+            "\u786E\u5B9A\u8D2D\u4E70\u94BB\u77F3\u5417\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freeskill",
+        "Contain" : [
+            "\u514D\u8D39\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freebox",
+        "Contain" : [
+            "\u514D\u8D39\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freeprop",
+        "Contain" : [
+            "\u514D\u8D39\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_seeadcoin",
+        "Contain" : [
+            "\u89C2\u770B\u5E7F\u544A\u53EF\u514D\u8D39\u83B7\u5F97\u5927\u91CF\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_seeaddoller",
+        "Contain" : [
+            "\u89C2\u770B\u5E7F\u544A\u53EF\u514D\u8D39\u83B7\u5F97\u5927\u91CF\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_seeadskill",
+        "Contain" : [
+            "\u89C2\u770B\u5E7F\u544A\u53EF\u514D\u8D39\u83B7\u5F97\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_seeadbox",
+        "Contain" : [
+            "\u89C2\u770B\u5E7F\u544A\u53EF\u514D\u8D39\u83B7\u5F97\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_seeadprop",
+        "Contain" : [
+            "\u89C2\u770B\u5E7F\u544A\u53EF\u514D\u8D39\u83B7\u5F97\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_boom",
+        "Contain" : [
+            "\u70B8\u5F39"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_fallyin",
+        "Contain" : [
+            "\u6389\u843D\u94F6\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_falljin",
+        "Contain" : [
+            "\u6389\u843D\u91D1\u76AE\u7BB1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_agin",
+        "Contain" : [
+            "\u518D\u6765\u4E00\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_scpprop",
+        "Contain" : [
+            "\u6536\u85CF\u54C1\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_rollprop",
+        "Contain" : [
+            "\u4EBA\u5076\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_suiji",
+        "Contain" : [
+            "\u968F\u673A\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_lucky",
+        "Contain" : [
+            "\u5E78\u8FD0\u8F6C\u76D8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_coinmaxup",
+        "Contain" : [
+            "\u94F6\u5E01\u6700\u5927\u7D2F\u8BA1\u6570\u589E\u52A0:{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getmorecoin",
+        "Contain" : [
+            "\u83B7\u5F97\u66F4\u591A\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_next",
+        "Contain" : [
+            "\u4E0B\u6B21\u83B7\u5F97<sprite=7>\u65F6\u95F4\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_time",
+        "Contain" : [
+            "\u65F6\u95F4"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shopbox",
+        "Contain" : [
+            "\u5546\u57CE\u793C\u5305"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_silver",
+        "Contain" : [
+            "\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buyed",
+        "Contain" : [
+            "\u5DF2\u8D2D\u4E70"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tishi",
+        "Contain" : [
+            "\u63D0\u793A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_uplv",
+        "Contain" : [
+            "\u5347\u7EA7"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_nodiamond",
+        "Contain" : [
+            "\u94BB\u77F3\u4E0D\u8DB3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_buyyes",
+        "Contain" : [
+            "\u8D2D\u4E70\u6210\u529F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethowgold",
+        "Contain" : [
+            "\u83B7\u5F97{0}\u91D1\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getmoregold",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97{0}\u91D1\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_comtask",
+        "Contain" : [
+            "\u793E\u533A\u4EFB\u52A1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_taskprogress",
+        "Contain" : [
+            "\u4EFB\u52A1\u8FDB\u5EA6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_upclub",
+        "Contain" : [
+            "\u5347\u7EA7\u793E\u533A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_end",
+        "Contain" : [
+            "\u5DF2\u7ED3\u675F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shouhuo",
+        "Contain" : [
+            "\u6536\u83B7\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_piglvmax",
+        "Contain" : [
+            "\u91D1\u732A\u7B49\u7EA7\u5DF2\u6EE1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_clickuppig",
+        "Contain" : [
+            "\u83B7\u5F97\u91D1\u732A\u5956\u52B1{0}\u6B21\u540E\u53EF\u5347\u7EA7\u91D1\u732A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freelingqu",
+        "Contain" : [
+            "\u514D\u8D39\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_morethan",
+        "Contain" : [
+            "\u5956\u52B1\u8D85\u8FC750%\u5373\u53EF\u514D\u8D39\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getmoresliver",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97{0}\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gamecoin",
+        "Contain" : [
+            "\u7F8E\u8273\u7684\u5929\u4F7F\u6295\u8D44\u4EBA\u964D\u4E34"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gogame",
+        "Contain" : [
+            "\u5E26\u7740\u5927\u91CF\u73B0\u91D1\u7684\u4ED6\uFF0C\u5C31\u559C\u6B22\u5230\u5904\u6492\u94B1\uFF0C\u6E38\u8D70\u4E8E\u5404\u5927\u8857\u9053\uFF0C\u7A7F\u7740\u7F8E\u8273\u7684\u5947\u7537\u5B50\uFF0C\u63A5\u53D7\u4ED6\u5E26\u7740\u7231\u610F\u7684\u7F8E\u91D1\u5427"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_bossgive",
+        "Contain" : [
+            "\u5929\u5916\u6765\u5BA2\u60CA\u73B0"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_bosshelp",
+        "Contain" : [
+            "\u9707\u60CA\uFF01\u5C45\u7136\u5728\u4F60\u7684\u8857\u533A\u53D1\u73B0\u5230\u4E86UFO\uFF0C\u4ED6\u4EEC\u6254\u4E0B\u4E86\u4E00\u5768\u4E0D\u77E5\u9053\u662F\u5565\u7684\u4E1C\u897F\u5C31\u98DE\u8D70\u4E86\uFF0C\u6361\u5230\u4E86\u4E00\u4E2A\u5916\u661F\u4EBA\u4E0D\u8981\u7684\u597D\u4E1C\u897F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_bangpaibaofa",
+        "Contain" : [
+            "\u6295\u5E01\u5927\u5E08\u7684\u6311\u6218"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_bangpaiskill",
+        "Contain" : [
+            "\u4E00\u540D\u540D\u626C\u5929\u4E0B\u7684\u77E5\u540D\u6295\u5E01\u4EBA\u6765\u5230\u4E86\u4F60\u7684\u8857\u533A\uFF0C\u770B\u7740\u4F60\u8352\u5510\u7684\u6295\u5E01\u6280\u672F\u5341\u5206\u75DB\u5FC3\uFF0C\u8A93\u8981\u4E3A\u4F60\u5C55\u793A\u771F\u6B63\u7684\u6295\u5E01\u6280\u672F\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_linqunow",
+        "Contain" : [
+            "\u7ACB\u5373\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shouqunow",
+        "Contain" : [
+            "\u7ACB\u5373\u6536\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getjin",
+        "Contain" : [
+            "\u83B7\u5F97\u91D1\u76AE\u7BB1\uFF0C\u6253\u5F00\u83B7\u53D6:{0}X{1}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_crownreward",
+        "Contain" : [
+            "\u7687\u51A0\u5E01\u6536\u76CA"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getcorown",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97{0}\u7687\u51A0\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethowcrown",
+        "Contain" : [
+            "\u83B7\u5F97{0}\u7687\u51A0\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getjinzhu",
+        "Contain" : [
+            "\u606D\u559C\u4F60\u89E3\u9501\u4E86\u8D22\u5BCC\u91D1\u732A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_jiandoller",
+        "Contain" : [
+            "\u91D1\u732A\u53EF\u4EE5\u6361\u53D6\u4F60\u6389\u843D\u5230\u6C34\u6C60\u91CC\u7684\u7F8E\u5143"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_freecrown",
+        "Contain" : [
+            "\u514D\u8D39\u7687\u51A0\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_crown",
+        "Contain" : [
+            "\u7687\u51A0\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hasskill",
+        "Contain" : [
+            "\u6280\u80FD\u5DF2\u5B89\u88C5,\u65E0\u9700\u79FB\u52A8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_luckywhell",
+        "Contain" : [
+            "\u5E78 \u8FD0 \u8F6E \u76D8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_attackyou",
+        "Contain" : [
+            "\u4F60\u88AB\u653B\u51FB\u4E86\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_attacknum",
+        "Contain" : [
+            "\u88AB\u653B\u51FB\u6B21\u6570{0}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_iknow",
+        "Contain" : [
+            "\u6211\u77E5\u9053\u4E86\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_usedefender",
+        "Contain" : [
+            "\u9632\u5FA1\u653B\u51FB\u6B21\u6570:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_attackDes",
+        "Contain" : [
+            "\u653B\u51FB\u6240\u635F\u574F\u7684\u5EFA\u7B51\u65E0\u6CD5\u518D\u8FDB\u884C\u5956\u52B1\u7D2F\u8BA1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getboom",
+        "Contain" : [
+            "\u83B7\u5F97\u70B8\u5F39"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_jiesuoboss",
+        "Contain" : [
+            "\u89E3\u9501boss"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hetong",
+        "Contain" : [
+            "\u793E\u533A\u8D2D\u4E70\u5408\u540C"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hetongDes",
+        "Contain" : [
+            "\\u3000\\u3000\u6700\u540E\uFF0C\u611F\u8C22\u4F60\u7684\u5927\u529B\u6295\u8D44\uFF0C\u5E0C\u671B\u4F60\u80FD\u7BA1\u7406\\n\u597D\u8BE5\u793E\u533A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_qianming",
+        "Contain" : [
+            "\u7B7E\u540D:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_finish",
+        "Contain" : [
+            "\u5DF2\u5B8C\u6210"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_newskill",
+        "Contain" : [
+            "\u89E3\u9501\u6280\u80FD/\u65B0\u529F\u80FD "
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_afterunclock",
+        "Contain" : [
+            "\u89E3\u9501\u540E\u53EF\u4F7F\u7528\u65B0\u6280\u80FD\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_baotu",
+        "Contain" : [
+            "\u66B4\u5F92\u9996\u9886"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_chuBoss",
+        "Contain" : [
+            "\u89E3\u9501\u540E\uFF0C\u8BE5Boss\u7684\u5EA7\u9A7E\u4F1A\u51FA\u73B0\u5728\u8857\u533A\uFF0C\u6EE1\u8DB3\u6761\u4EF6\u540E\u4F1A\u89E6\u53D1boss\u7684\u6218\u6597"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_jiesuojiangli",
+        "Contain" : [
+            "\u89E3\u9501\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_songqian",
+        "Contain" : [
+            "\u5927\u4F6C\u9001\u94B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_songbi",
+        "Contain" : [
+            "\u5927\u4F6C\u9001\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_songdaoju",
+        "Contain" : [
+            "\u5927\u4F6C\u9001\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_jiesuotuituji",
+        "Contain" : [
+            "\u89E3\u9501\u63A8\u571F\u673A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shengyulingqu",
+        "Contain" : [
+            "\u6BCF\u65E5\u5269\u4F59\u9886\u53D6\u6B21\u6570"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_seead",
+        "Contain" : [
+            "\u89C2\u770B\u5E7F\u544A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_getmoredaoju",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97\u968F\u673A\u9053\u5177"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_selectrole",
+        "Contain" : [
+            "\u8BF7\u9009\u62E9\u4F60\u8981\u6D3E\u51FA\u8FDB\u884C\u63A0\u593A\u7684\u89D2\u8272"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dollerup",
+        "Contain" : [
+            "\u63A0\u593A\u91D1\u989D\u63D0\u9AD8"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_lueduo",
+        "Contain" : [
+            "\u63A0\u593A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_shuaxin",
+        "Contain" : [
+            "\u5237\u65B0\u7687\u51A0\u9ED1\u5E02"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noshuaxin",
+        "Contain" : [
+            "\u4ECA\u65E5\u6B21\u6570\u5DF2\u7528\u5B8C,\\n\u662F\u5426\u770B\u5E7F\u544A\u5237\u65B0\u9ED1\u5E02\u5546\u54C1\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_isSeeAD",
+        "Contain" : [
+            "\u662F\u5426\u901A\u8FC7\u5E7F\u544A\u514D\u8D39\u83B7\u5F97\u94F6\u5E01\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_gethgb",
+        "Contain" : [
+            "\u83B7\u5F97\u7687\u51A0\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noHasCoin",
+        "Contain" : [
+            "\u94F6\u5E01\u4E0D\u8DB3\uFF0C\u65E0\u6CD5\u7EE7\u7EED\u6295\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tipsBossUnLock",
+        "Contain" : [
+            "\u89E3\u9501\u540E\uFF0C\u8BE5Boss\u7684\u5EA7\u9A7E\u4F1A\u51FA\u73B0\u5728\u8857\u533A\uFF0C\u6EE1\u8DB3\u6761\u4EF6\u540E\u4F1A\u89E6\u53D1boss\u7684\u6218\u6597"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_sucLockTTJ",
+        "Contain" : [
+            "\u606D\u559C\u89E3\u9501\u63A8\u571F\u673A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_unLockThief",
+        "Contain" : [
+            "\u89E3\u9501\u62A2\u593A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_unLockRank",
+        "Contain" : [
+            "\u89E3\u9501\u6392\u884C\u699C"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_cantUnLock",
+        "Contain" : [
+            "\u672A\u8FBE\u5230\u89E3\u9501\u6761\u4EF6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_cantUnLevelUp",
+        "Contain" : [
+            "\u672A\u8FBE\u5230\u5347\u7EA7\u6761\u4EF6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_hasMaterial",
+        "Contain" : [
+            "\u6750\u6599\u5DF2\u7ECF\u6295\u5165\uFF0C\u65E0\u9700\u518D\u6B21\u6295\u5165\u6750\u6599"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noHasMaterial",
+        "Contain" : [
+            "\u6750\u6599\u4E0D\u8DB3\uFF0C\u65E0\u6CD5\u6295\u5165"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noHasMTW",
+        "Contain" : [
+            "\u8FD8\u672A\u6295\u5165\u6750\u6599\uFF0C\u65E0\u6CD5\u6D3E\u9063\u4EBA\u5458\u8FDB\u884C\u5347\u7EA7\u52A0\u5DE5"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noMaterial",
+        "Contain" : [
+            "\u6750\u6599\u4E0D\u8DB3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_inMaterial",
+        "Contain" : [
+            "\u6295\u5165\u6750\u6599"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_repair",
+        "Contain" : [
+            "\u4FEE\u7406"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noRefreshNum",
+        "Contain" : [
+            "\u6682\u65E0\u4F7F\u7528\u6B21\u6570"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_warn",
+        "Contain" : [
+            "\u8B66\u544A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tipsSelectPaotai",
+        "Contain" : [
+            "\u5DF2\u7ECF\u6709\u70AE\u53F0\u6B63\u5728\u5347\u7EA7\u4E2D\uFF0C\u66F4\u6362\u70AE\u53F0\u4F1A\u635F\u5931\u6750\u6599\u548C\u4EBA\u5458\uFF0C\u662F\u5426\u786E\u8BA4\u8981\u66F4\u6362\u9700\u8981\u5347\u7EA7\u7684\u70AE\u53F0\uFF1F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tipsSelectEndWork",
+        "Contain" : [
+            "\u6D3E\u9063\u4EBA\u5458\u6B63\u5728\u5DE5\u4F5C\uFF0C\u662F\u5426\u5F3A\u5236\u7ED3\u675F\u5DE5\u4F5C?      <color=\"red\">(\u5F3A\u5236\u7ED3\u675F\u4E0D\u4F1A\u9000\u8FD8\u4EBA\u5076\u9053\u5177)</color>"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tipsSelsectLockWork",
+        "Contain" : [
+            "\u9700\u8981\u82B1\u8D39<sprite=6> x100\u89E3\u9501\u65B0\u5DE5\u4F4D\uFF0C\u662F\u5426\u8FDB\u884C\u89E3\u9501\uFF1F\\n\\n\\n<color=#ab5719>\u5269\u4F59:<sprite=6>x{0}</color>"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_moreTobacco",
+        "Contain" : [
+            "\u989D\u5916\u83B7\u5F97{0}\u4E2A\u7687\u51A0\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_offlineDes",
+        "Contain" : [
+            "\u79BB\u7EBF\u6536\u76CA"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_mail",
+        "Contain" : [
+            "\u90AE\u4EF6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_communityLevel",
+        "Contain" : [
+            "\u793E\u533A\u7B49\u7EA7:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_award",
+        "Contain" : [
+            "\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_doubleGet",
+        "Contain" : [
+            "\u53CC\u500D\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_double",
+        "Contain" : [
+            "\u53CC\u500D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_paotai",
+        "Contain" : [
+            "\u70AE\u53F0"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_selectPao",
+        "Contain" : [
+            "\u70AE\u53F0\u9009\u62E9"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_setWorker",
+        "Contain" : [
+            "\u4EBA\u5458\u6D3E\u9063"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_noNeedMaterial",
+        "Contain" : [
+            "\u65E0\u9700\u6750\u6599"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_needMaterial",
+        "Contain" : [
+            "\u5347\u7EA7\u6240\u9700\u6750\u6599:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dispatchWorker",
+        "Contain" : [
+            "\u8BF7\u6D3E\u9063\u4EBA\u5458\u8FDB\\n\u884C\u70AE\u53F0\u5347\u7EA7\u52A0\u5DE5"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_desDispatch0",
+        "Contain" : [
+            "\u00B7\u81F3\u5C11\u9700\u8981\u6D3E\u90631\u4E2A\u4EBA\u5458\uFF0C\u624D\u80FD\u5BF9\u70AE\u53F0\u8FDB\u884C\u5347\u7EA7"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_desDispatch1",
+        "Contain" : [
+            "\u00B7\u6BCF\u591A\u6D3E\u9063\u4E00\u4E2A\u4EBA\u5458\uFF0C\u70AE\u53F0\u5347\u7EA7\u901F\u5EA6\u4F1A\u52A0\u5FEB\uFF0C\u6700\u591A\u53EF\u4EE5\u6D3E\u90635\u4E2A\u4EBA\u5458"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_dispatch",
+        "Contain" : [
+            "\u6D3E\u9063"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_touchUnLock",
+        "Contain" : [
+            "\u70B9\u51FB\u89E3\u9501"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_upDanNeed",
+        "Contain" : [
+            "\u6BB5\u4F4D\u63D0\u5347\u8FD8\u9700\u7687\u51A0\u5206"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_RankAward",
+        "Contain" : [
+            "\u6BB5\u4F4D\u5347\u7EA7\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_titleMail",
+        "Contain" : [
+            "\u793E\u533A\u90AE\u4EF6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_titleADRefresh",
+        "Contain" : [
+            "\u7D2F\u8BA1\u6295\u5E01\u83B7\u5F97\u5956\u52B1\uFF01\u6BCF\u65E5\u5237\u65B0\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_ad50",
+        "Contain" : [
+            "500\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_ad30",
+        "Contain" : [
+            "300\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_ad15",
+        "Contain" : [
+            "150\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_touchGetAward",
+        "Contain" : [
+            "\u4E00\u952E\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tipsforPaotai",
+        "Contain" : [
+            "\u6CE8\uFF1A\u53EF\u7528\u4E8E\u70AE\u53F0\u5347\u7EA7\u6750\u6599"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_upleveling",
+        "Contain" : [
+            "\u5347\u7EA7\u4E2D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_Locking",
+        "Contain" : [
+            "\u5DF2\u89E3\u9501"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tips2",
+        "Contain" : [
+            "<color=#2e4883>\u6280\u80FD\u672A\u89E3\u9501\\n\u7B49\u7EA7\u63D0\u5347\u81F32\u7EA7\u89E3\u9501\u540E\u53EF\u4F7F\u7528</color>"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tips0",
+        "Contain" : [
+            "<color=#2e4883>\u6280\u80FD\u672A\u89E3\u9501\\n\u7B49\u7EA7\u63D0\u5347\u81F34\u7EA7\u89E3\u9501\u540E\u53EF\u4F7F\u7528</color>"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_tips1",
+        "Contain" : [
+            "<color=#2e4883>\u6280\u80FD\u672A\u89E3\u9501\\n\u901A\u8FC7\u6B21\u65E5\u7B7E\u5230\u89E3\u9501\u4E4B\u540E\u53EF\u4F7F\u7528</color>"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_zs",
+        "Contain" : [
+            "\u94BB\u77F3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10001",
+        "Contain" : [
+            "\u9009\u62E9\u56FD\u7C4D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10002",
+        "Contain" : [
+            "\u70B9\u51FB\u8BE5\u533A\u57DF\u53EF\u4EE5\u8FDB\u884C\u6295\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10003",
+        "Contain" : [
+            "\u83B7\u5F97\u94F6\u7BB1\u5B50"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10004",
+        "Contain" : [
+            "\u83B7\u5F97\u91D1\u7BB1\u5B50"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10005",
+        "Contain" : [
+            "\u89E6\u53D1boss\u5EA7\u9A7E"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10006",
+        "Contain" : [
+            "\u5F53\u5E01\u901A\u8FC7\u65F6\u5956\u52B1\u706F\u4F1A\u4EAE\u8D77"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10007",
+        "Contain" : [
+            "\u8FDE\u7EED\u70B9\u4EAE\u5176\u4ED6\u5956\u52B1\u706F\uFF0C\u5373\u53EF\u83B7\u5F97\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10008",
+        "Contain" : [
+            "3\u4E2A\u5956\u52B1\u706F\u90FD\u4EAE\u8D77\u65F6\uFF0C\u5373\u53EF\u83B7\u5F97\u5956\u52B1\u4E2D\u9014\u5982\u679C\u901A\u8FC7\u70B9\u4EAE\u7684\u706F\uFF0C\u5219\u9700\u8981\u91CD\u65B0\u7D2F\u8BA1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10009",
+        "Contain" : [
+            "\u70B9\u51FB\u8BE5\u533A\u57DF\u53EF\u4EE5\u8FDB\u884C\u6295\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10010",
+        "Contain" : [
+            "\u6389\u843D\u8BE5\u533A\u57DF\u53EF\u4EE5\u83B7\u5F97\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10011",
+        "Contain" : [
+            "\u5E01\u88AB\u63A8\u843D\u5230\u7EA2\u8272\u6846\u5185\u53EF\u4EE5\u542F\u52A8\u8001\u864E\u673A\uFF0C\u83B7\u5F97\u5DE8\u5927\u5F97\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10012",
+        "Contain" : [
+            "\u53EF\u83B7\u5F97\u6BB5\u4F4D\u63D0\u5347\u5927\u5956"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10013",
+        "Contain" : [
+            "\u6BB5\u4F4D\u63D0\u5347\u81F3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10014",
+        "Contain" : [
+            "\u6BB5\u4F4D"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10015",
+        "Contain" : [
+            "\u5F53\u524D\u6BB5\u4F4D:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10016",
+        "Contain" : [
+            "\u5408\u6210"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10017",
+        "Contain" : [
+            "\u83B7\u5F97<sprite=6>x10"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10018",
+        "Contain" : [
+            "\u989D\u5916\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10019",
+        "Contain" : [
+            "\u5F53\u524D\u5347\u7EA7\u9636\u6BB5"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10020",
+        "Contain" : [
+            "\u5A01\u529B:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10021",
+        "Contain" : [
+            "\u70AE\u53F0\u89E3\u9501\u6761\u4EF6\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10022",
+        "Contain" : [
+            "\u5EFA\u7B51\u5DF2\u635F\u574F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10023",
+        "Contain" : [
+            "\u514D\u8D39\u4FEE\u7406"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10024",
+        "Contain" : [
+            "\u5DF2\u635F\u574F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10025",
+        "Contain" : [
+            "\u7CDF\u7CD5,\u5F39\u836F\u4E0D\u8DB3\u4E86\uFF01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10026",
+        "Contain" : [
+            "\u9762\u5BF9boss\u65E0\u60C5\u7684\u5632\u8BBD\uFF0C\u4F60\u5374\u6CA1\u6709\u4E86\u5F39\u836F\uFF0C\u4F5C\u4E3A\u793E\u4F1A\u7BA1\u7406\u4EBA\uFF0C\u8FD9\u65F6\u5019\u4F60\u4F1A\u3002\u3002"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10027",
+        "Contain" : [
+            "\u5149\u901F\u9003\u8DD1\\n\u4FDD\u547D\u8981\u7D27"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10028",
+        "Contain" : [
+            "\u7ED9\u6211\u5F39\u836F\\n\u5E72\u4ED6\u4E2B\u7684"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10029",
+        "Contain" : [
+            "1.\u53EF\u901A\u8FC7\u70B9\u51FB\u6216\u8005\u6ED1\u52A8\u6765\u63A7\u5236\u70AE\u53F0\u53D1\u5C04\u65B9\u5411"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10030",
+        "Contain" : [
+            "2.\u70B9\u51FB\u53F3\u4E0B\u65B9\u6280\u80FD\uFF0C\u53EF\u4EE5\u4F7F\u7528\u70AE\u53F0\u4E13\u5C5E\u6280\u80FD\uFF0C\u7075\u6D3B\u8FD0\u7528\u6280\u80FD\u53EF\u4EE5\u66F4\u5FEB\u51FB\u8D25boss"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10031",
+        "Contain" : [
+            "\u5E2E\u52A9"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10032",
+        "Contain" : [
+            "\u53EF\u9886\u53D6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10033",
+        "Contain" : [
+            "\u5373\u5C06\u8FDB\u5165\u6218\u6597\uFF0C\u8BF7\u9009\u62E9\u4F60\u8981\u4F7F\u7528\u7684\u70AE\u53F0"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10034",
+        "Contain" : [
+            "\u62A2\u593A\u6210\u529F:"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10035",
+        "Contain" : [
+            "\u7834\u574F\u6210\u529F\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10036",
+        "Contain" : [
+            "\u5171\u6D88\u8017\u4EBA\u5076\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10037",
+        "Contain" : [
+            "\u5171\u83B7\u5F97\u7F8E\u5143\u5E01\uFF1A"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10038",
+        "Contain" : [
+            "\u5373\u5C06\u83B7\u5F97"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10039",
+        "Contain" : [
+            "<u>\u4EFB\u52A1\u5F15\u5BFC</u>"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10040",
+        "Contain" : [
+            "\u53D6\u6D88"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10041",
+        "Contain" : [
+            "\u6392\u884C\u699C"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_11041",
+        "Contain" : [
+            "\u6392\u884C\u699C"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10042",
+        "Contain" : [
+            "\u8BBE\u7F6E"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_11042",
+        "Contain" : [
+            "\u8BBE\u7F6E"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10043",
+        "Contain" : [
+            "\u6210\u5C31"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_11043",
+        "Contain" : [
+            "\u6210\u5C31"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_12043",
+        "Contain" : [
+            "\u6210\u5C31"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_12044",
+        "Contain" : [
+            "\u7B7E\u5230"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10045",
+        "Contain" : [
+            "\u8D2D\u4E70\u540E\u53EF\u83B7\u5F97\\n\u94F6\u5E01{0}\u679A    \u7F8E\u91D1{1}\\n{2}\u6280\u80FD{3}\u6B21"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10046",
+        "Contain" : [
+            "\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10047",
+        "Contain" : [
+            "\u70AE\u53F0\u4FEE\u5EFA\u65F6\u95F4\u5927\u5927\u7F29\u77ED!"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10048",
+        "Contain" : [
+            "\u5A01\u529B:{0}\\n\u6280\u80FD:{1}"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10049",
+        "Contain" : [
+            "\u5237\u65B0"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10050",
+        "Contain" : [
+            "\u6B64\u5904\u88C5\u5907\u6280\u80FD"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10051",
+        "Contain" : [
+            "\u9886\u53D6\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10052",
+        "Contain" : [
+            "\u70B9\u51FB\u6B64\u5904\u83B7\u5F97\u94F6\u5E01"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10053",
+        "Contain" : [
+            "\u4E09\u500D\u5956\u52B1"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10054",
+        "Contain" : [
+            "\u5F53\u524D\u6CA1\u6709\u65B0\u90AE\u4EF6"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_PayFailed",
+        "Contain" : [
+            "\u652F\u4ED8\u5931\u8D25!"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10055",
+        "Contain" : [
+            "\u66F4\u65B0\u8865\u507F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10056",
+        "Contain" : [
+            "\u4F60\u597D\u554A\u5C0F\u8001\u677F\uFF0C\n \u6211\u4EEC\u539F\u5148\u7684\u7248\u672C\u91CC\u9762\u5B58\u5728\u6BD4\u8F83\u4E25\u91CD\u7684\u95EE\u9898\uFF0C\u8FD9\u4F1A\u5BFC\u81F4\u6211\u4EEC\u7684\u6E38\u620F\u5931\u53BB\u4E86\u8BE5\u6709\u7684\u4E50\u8DA3\uFF0C\u53EA\u80FD\u8BF4\u975E\u5E38\u62B1\u6B49\uFF0C\u6211\u4EEC\u4E0D\u5F97\u5DF2\u5C06\u539F\u5148\u7684\u6570\u636E\u8FDB\u884C\u6E05\u9664\uFF0C\u4F46\u540C\u65F6\u4E5F\u4F1A\u7ED9\u5230\u60A8\u4E00\u4E9B\u8865\u507F\uFF0C\u8FD8\u8BF7\u5404\u4F4D\u591A\u591A\u5305\u6DB5\uFF0C\u7EE7\u7EED\u652F\u6301Gangster Coin Mania\u5427\uFF01\n\n Best regards\n Gangster Coin Mania"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10057",
+        "Contain" : [
+            "\u6CA1\u6709\u5E7F\u544A\uFF0C\u8BF7\u7B49\u5F85\u51E0\u79D2\u949F\u6216\u91CD\u65B0\u542F\u52A8\u6E38\u620F\u3002"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10058",
+        "Contain" : [
+            "\u5F00\u542F\u65B0\u6E38\u620F\u5C06\u8986\u76D6\u5B58\u6863,\u662F\u5426\u8986\u76D6?"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10059",
+        "Contain" : [
+            "\u4E3B\u754C\u9762"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10060",
+        "Contain" : [
+            "\u9000\u51FA\u6E38\u620F"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10061",
+        "Contain" : [
+            "\u8D2D\u4E70\u6295\u63B7\u8D27\u5E01\u6B21\u6570"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10062",
+        "Contain" : [
+            "\u8D2D\u4E70\u94BB\u77F3"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10063",
+        "Contain" : [
+            "\u8D2D\u4E70\u6E38\u620F\u793C\u5305"
+        ]
+    },
+    {
+        "Id" : "Text_Ch-zh_10064",
+        "Contain" : [
+            "\u793E\u533A\u5347\u7EA7"
+        ]
+    }
+]
