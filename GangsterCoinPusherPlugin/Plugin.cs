@@ -12,7 +12,7 @@ using Random = UnityEngine.Random;
 
 namespace GangsterCoinPusherPlugin
 {
-    [BepInPlugin("plugin.gcp", "Gangster Coin Pusher Plugin", "1.0")]
+    [BepInPlugin("plugin.gcp", "Gangster Coin Pusher Plugin", "1.01")]
     public class Plugin: BaseUnityPlugin
     {
         private bool wasLocaleLoaded = false;
