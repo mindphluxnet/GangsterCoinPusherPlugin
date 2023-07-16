@@ -75,10 +75,29 @@ namespace GangsterCoinPusherPlugin
             On.DataMgr.Init += DataMgr_Init;
             /* Hook for community task fix */
             On.CommunityTaskModel.Init += CommunityTaskModel_Init;
+            /* Hook for Upgrade Hood button removal */
+            On.MainMenuView.Start += MainMenuView_Start;
 
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
+
+        #region Fix for "Upgrade Hood" button visible if all buildings are at max. level
+        private void MainMenuView_Start(On.MainMenuView.orig_Start orig, MainMenuView self)
+        {
+            int stars = 0;
+            for (int j = 0; j < 5; j++)
+            {
+                DyBulidData buildIdByType = BaseMonoSingle<DataMgr>.Inst.GetBuildIdByType((BuildType)j);
+                stars += buildIdByType.num;
+            }
+            Debug.Log($"Stars: {stars}");
+
+            MainMenuView.Instance.itemBase.GetObj("BtnUpLv").SetActive(stars >= 105);
+
+            orig.Invoke(self);
+        }
+        #endregion
 
         #region Fix community task 21 to require only 200 coin drops instead of 20k
         private void CommunityTaskModel_Init(On.CommunityTaskModel.orig_Init orig, CommunityTaskModel self)
