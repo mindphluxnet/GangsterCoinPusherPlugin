@@ -77,10 +77,43 @@ namespace GangsterCoinPusherPlugin
             On.CommunityTaskModel.Init += CommunityTaskModel_Init;
             /* Hook for various fixes */
             On.MainMenuView.Start += MainMenuView_Start;
+            /* Hook for rank name scaling */
+            On.RankItem.ShowData += RankItem_ShowData;
 
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
+
+        #region Fix rank name scaling
+        private void RankItem_ShowData(On.RankItem.orig_ShowData orig, RankItem self, int index)
+        {
+            orig.Invoke(self, index);
+            if(self.PlayerData != null)
+            {
+                GameObject _go = FindChildByName(self.gameObject, "TxtName");
+                if(_go != null)
+                {
+                    _go.GetComponent<Text>().resizeTextForBestFit = true;
+                }
+            }
+        }
+
+        GameObject FindChildByName(GameObject parentObject, string name)
+        {
+            for (int i = 0; i < parentObject.transform.childCount; i++)
+            {
+                Transform child = parentObject.transform.GetChild(i);
+                if (child.name == name)
+                    return child.gameObject;
+
+                GameObject result = FindChildByName(child.gameObject, name);
+                if (result != null)
+                    return result;
+            }
+
+            return null; // not found
+        }
+        #endregion
 
         #region Apply fixes on game start
         private void MainMenuView_Start(On.MainMenuView.orig_Start orig, MainMenuView self)
