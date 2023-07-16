@@ -2,7 +2,6 @@
 
 - The Hood screen still shows the upgrade button at the highest rank (5)
 - The Hood screen always displays an upgrade indicator (green arrow) on the Jewelry Store even if it can't be upgraded.
-- One step of the community tasks requires 20k gold coins to be dropped which takes extremely long to complete. All other tasks require far less.
 - Sometimes, a boss car spawns without an actual boss in it. 
 - Despite silver coins being capped they don't regenerate while offline. Not sure if that's intentional.
 
