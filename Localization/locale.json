@@ -135,7 +135,7 @@
     {
         "Id" : "Text_En_tobacco/M",
         "Contain" : [
-            "Gain per minute:"
+            "Dollars/5 min:"
         ]
     },
     {
@@ -663,7 +663,7 @@
     {
         "Id" : "Text_En_yestouqie",
         "Contain" : [
-            "Steal successfully and get {0} dollars"
+            "You gained {0} dollar from stealing!"
         ]
     },
     {
@@ -675,55 +675,55 @@
     {
         "Id" : "Text_En_yespohuai",
         "Contain" : [
-            "Destroy successfully, get {0} USD"
+            "You gained {0} dollar from the destruction!"
         ]
     },
     {
         "Id" : "Text_En_qiangdianyes",
         "Contain" : [
-            "Gun shop has been repaired"
+            "The Gun Shop has been repaired"
         ]
     },
     {
         "Id" : "Text_En_yezonghuiyes",
         "Contain" : [
-            "The nightclub has been repaired"
+            "The Nightclub has been repaired"
         ]
     },
     {
         "Id" : "Text_En_heishiyes",
         "Contain" : [
-            "The illicit market has been repaired"
+            "The Illicit Market has been repaired"
         ]
     },
     {
         "Id" : "Text_En_zhubaodianyes",
         "Contain" : [
-            "The jewelry store has been repaired"
+            "The Jewelry Store has been repaired"
         ]
     },
     {
         "Id" : "Text_En_baipangzongbuyes",
         "Contain" : [
-            "The guild headquarters has been repaired"
+            "The headquarters have been repaired"
         ]
     },
     {
         "Id" : "Text_En_gethowcoins",
         "Contain" : [
-            "Obtain {0} silver coins"
+            "You won {0} silver coins!"
         ]
     },
     {
         "Id" : "Text_En_gethowdoller",
         "Contain" : [
-            "Get {0} dollars"
+            "You won {0} dollar!"
         ]
     },
     {
         "Id" : "Text_En_gethowprop",
         "Contain" : [
-            "Get {0} props"
+            "You won a {0} "
         ]
     },
     {
@@ -807,13 +807,13 @@
     {
         "Id" : "Text_En_fallcoins",
         "Contain" : [
-            "A lot of gold coins have dropped!"
+            "Some gold coins have dropped!"
         ]
     },
     {
         "Id" : "Text_En_falldoller",
         "Contain" : [
-            "A lot of dollars have dropped!"
+            "Some dollars have dropped!"
         ]
     },
     {
@@ -1509,7 +1509,7 @@
     {
         "Id" : "Text_En_gethgb",
         "Contain" : [
-            "A lot of crown coins have dropped!"
+            "Some crown coins have dropped!"
         ]
     },
     {
@@ -1899,7 +1899,7 @@
     {
         "Id" : "Text_En_10015",
         "Contain" : [
-            "Current level"
+            "Current rank:"
         ]
     },
     {
