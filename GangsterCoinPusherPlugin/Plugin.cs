@@ -71,11 +71,12 @@ namespace GangsterCoinPusherPlugin
             On.DataMgr.GetSavePropertyData += DataMgr_GetSavePropertyData;
             On.DataMgr.GetAward += DataMgr_GetAward;
             On.PropItem.GetReward += PropItem_GetReward;
-            On.DataMgr.Init += DataMgr_Init;            
+            On.DataMgr.Init += DataMgr_Init;
 
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
+
         #region Fix for dolls/props collection not saving between sessions
         private void PropItem_GetReward(On.PropItem.orig_GetReward orig, PropItem self)
         {
