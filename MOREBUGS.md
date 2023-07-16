@@ -4,6 +4,7 @@
 - Sometimes, a boss car spawns without an actual boss in it. This prevents another boss from spawning until you restart the game.
 - Despite silver coins being capped they don't regenerate while offline. Not sure if that's intentional.
 - If you want to repair a building while having insufficient dollars you'll get stuck as the repair window can't be closed.
+- Community tasks end at some point as they require the player to reach level 100 (and the game is capped to 30).
 
 # Won't fix
 
