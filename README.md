@@ -7,7 +7,7 @@ Collection of fixes for the game "Gangster Coin Pusher":
 - Fixes Steam achievements not unlocking directly after achieving them.
 - Fixes the audio setting not saving. Small caveat: there's still about half a second of music on startup.
 - Fixes the game not running in the background on Alt+Tab. Also mutes the game when it's not focused.
-- Moved the translation data outside of the game files and fixed some translations to be less terrible (work in progress). 
+- Moved the translation data outside of the game files and fixed some translations to be less terrible (work in progress). Locale files can be found in /Localization and belong into the %gamedir%\Gangster coin pusher_Data\StreamingAssets directory.
 
 # Installation
 
