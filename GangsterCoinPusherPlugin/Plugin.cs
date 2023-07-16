@@ -71,6 +71,7 @@ namespace GangsterCoinPusherPlugin
             On.DataMgr.GetSavePropertyData += DataMgr_GetSavePropertyData;
             On.DataMgr.GetAward += DataMgr_GetAward;
             On.PropItem.GetReward += PropItem_GetReward;
+            On.DataMgr.ClearSave += DataMgr_ClearSave;
             On.DataMgr.Init += DataMgr_Init;
             /* Hook for community task fix */
             On.CommunityTaskModel.Init += CommunityTaskModel_Init;
@@ -78,6 +79,7 @@ namespace GangsterCoinPusherPlugin
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
+
         #region Fix community task 21 to require only 200 coin drops instead of 20k
         private void CommunityTaskModel_Init(On.CommunityTaskModel.orig_Init orig, CommunityTaskModel self)
         {
@@ -89,6 +91,14 @@ namespace GangsterCoinPusherPlugin
         #endregion
 
         #region Fix for dolls/props collection not saving between sessions
+        private void DataMgr_ClearSave(On.DataMgr.orig_ClearSave orig)
+        {
+            if (File.Exists(Path.Combine(Application.persistentDataPath, "Properties.json")))
+            {
+                File.Delete(Path.Combine(Application.persistentDataPath, "Properties.json"));
+            }
+        }
+
         private void PropItem_GetReward(On.PropItem.orig_GetReward orig, PropItem self)
         {
             BaseMonoSingle<DataMgr>.Inst.UpdateDiamond(5);
