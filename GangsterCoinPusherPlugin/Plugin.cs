@@ -72,10 +72,21 @@ namespace GangsterCoinPusherPlugin
             On.DataMgr.GetAward += DataMgr_GetAward;
             On.PropItem.GetReward += PropItem_GetReward;
             On.DataMgr.Init += DataMgr_Init;
+            /* Hook for community task fix */
+            On.CommunityTaskModel.Init += CommunityTaskModel_Init;
 
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
+        #region Fix community task 21 to require only 200 coin drops instead of 20k
+        private void CommunityTaskModel_Init(On.CommunityTaskModel.orig_Init orig, CommunityTaskModel self)
+        {
+            CommunityTaskModel.Instance = self;
+            self.communityTaskConfig = BaseSingle<ConfigMgr>.Inst.GetConfig<CommunityTaskCoinfigData>();
+            self.communityTaskConfig.infos.Find(x => x.ID == 21).Nums = 200;
+            self.GetNowCommunityTask(false);
+        }
+        #endregion
 
         #region Fix for dolls/props collection not saving between sessions
         private void PropItem_GetReward(On.PropItem.orig_GetReward orig, PropItem self)
