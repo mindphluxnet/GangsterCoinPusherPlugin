@@ -75,15 +75,25 @@ namespace GangsterCoinPusherPlugin
             On.DataMgr.Init += DataMgr_Init;
             /* Hook for community task fix */
             On.CommunityTaskModel.Init += CommunityTaskModel_Init;
-            /* Hook for Upgrade Hood button removal */
+            /* Hook for various fixes */
             On.MainMenuView.Start += MainMenuView_Start;
 
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
 
-        #region Fix for "Upgrade Hood" button visible if all buildings are at max. level
+        #region Apply fixes on game start
         private void MainMenuView_Start(On.MainMenuView.orig_Start orig, MainMenuView self)
+        {
+            FixUpgradeHoodButton();
+            FixCoinsText();
+
+            orig.Invoke(self);
+        }
+        #endregion
+
+        #region Fix for "Upgrade Hood" button visible if all buildings are at max. level
+        private void FixUpgradeHoodButton()
         {
             int stars = 0;
             for (int j = 0; j < 5; j++)
@@ -91,11 +101,15 @@ namespace GangsterCoinPusherPlugin
                 DyBulidData buildIdByType = BaseMonoSingle<DataMgr>.Inst.GetBuildIdByType((BuildType)j);
                 stars += buildIdByType.num;
             }
-            Debug.Log($"Stars: {stars}");
 
             MainMenuView.Instance.itemBase.GetObj("BtnUpLv").SetActive(stars >= 105);
+        }
+        #endregion
 
-            orig.Invoke(self);
+        #region Fix coins text being cut off
+        private void FixCoinsText()
+        {
+            GameObject.Find("TxtCoins").GetComponent<Text>().resizeTextForBestFit = true;
         }
         #endregion
 

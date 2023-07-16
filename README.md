@@ -8,6 +8,8 @@ Collection of fixes for the game "Gangster Coin Pusher":
 - Fixes the audio setting not saving. Small caveat: there's still about half a second of music on startup.
 - Fixes the game not running in the background on Alt+Tab. Also mutes the game when it's not focused.
 - Fixes community task 21 to require 200 dropped gold coins instead of the outrageous 20,000
+- Fixes the "Upgrade Hood" button showing even if the Hood is already at maximum level
+- Fixes the silver coin display to no longer cut off text
 - Moved the translation data outside of the game files and fixed some translations to be less terrible (work in progress). Locale files can be found in /Localization and belong into the %gamedir%\Gangster coin pusher_Data\StreamingAssets directory.
 
 # Installation
