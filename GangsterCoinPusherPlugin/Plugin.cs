@@ -12,7 +12,7 @@ using Random = UnityEngine.Random;
 
 namespace GangsterCoinPusherPlugin
 {
-    [BepInPlugin("plugin.gcp", "Gangster Coin Pusher Plugin", "1.01")]
+    [BepInPlugin("plugin.gcp", "Gangster Coin Pusher Plugin", "1.02")]
     public class Plugin: BaseUnityPlugin
     {
         private bool wasLocaleLoaded = false;
@@ -79,10 +79,20 @@ namespace GangsterCoinPusherPlugin
             On.MainMenuView.Start += MainMenuView_Start;
             /* Hook for rank name scaling */
             On.RankItem.ShowData += RankItem_ShowData;
+            /* Hook for Daily Reward endless loop fix */
+            On.DataMgr.GetSignInByIdx += DataMgr_GetSignInByIdx;
 
             /* Enable the game to run in background if the user alt-tabbed */
             Application.runInBackground = true;
         }
+
+        #region Fix endless loop on Daily Reward close button if day > 7
+        private int DataMgr_GetSignInByIdx(On.DataMgr.orig_GetSignInByIdx orig, DataMgr self, int idx)
+        {
+            if (idx < 0) return 0;
+            return orig.Invoke(self, idx);
+        }
+        #endregion
 
         #region Fix rank name scaling
         private void RankItem_ShowData(On.RankItem.orig_ShowData orig, RankItem self, int index)
@@ -171,7 +181,7 @@ namespace GangsterCoinPusherPlugin
             EffectManager.Instance.GetFlutterEffect(base.transform.position, 3, ItemType.Diamond, 15f);
             BaseMonoSingle<DataMgr>.Inst.GetAward(self.CurData.PropId);
             BaseMonoSingle<Global>.Inst.GetController<PropController>().RefreshRedNode();
-            self.gameObject.transform.Find("Award").gameObject.SetActive(IsPropertyActive(self.CurData.PropId) && !IsPropertyAwarded(self.CurData.PropId));            
+            self.gameObject.transform.Find("Award").gameObject.SetActive(IsPropertyActive(self.CurData.PropId) && !IsPropertyAwarded(self.CurData.PropId));                        
         }
 
         private void DataMgr_Init(On.DataMgr.orig_Init orig, DataMgr self)
@@ -191,8 +201,7 @@ namespace GangsterCoinPusherPlugin
             PluginPropertyData p = playerProperties.Find(x => x.PropId == propId);
             return p.GetAwarded;
         }
-
-
+ 
         private void LoadPropertySave()
         {
             SetupPropertyData();

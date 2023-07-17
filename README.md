@@ -11,6 +11,7 @@ Collection of fixes for the game "Gangster Coin Pusher":
 - Fixes the "Upgrade Hood" button showing even if the Hood is already at maximum level
 - Fixes the silver coin display to no longer cut off text
 - Fixes the player names on the rank screen not scaling properly
+- Fixes an endless loop in the Daily Rewards window when the user tries to close it on day 8+
 - Moved the translation data outside of the game files and fixed some translations to be less terrible (work in progress). Locale files can be found in /Localization and belong into the %gamedir%\Gangster coin pusher_Data\StreamingAssets directory.
 
 # Installation
